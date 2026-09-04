@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=047857,10b981&height=220&section=header&text=CSE494%20NoSQL%20Databases&fontSize=50&fontAlignY=40&desc=Intelligent%20Data%20Modeling%20and%20Modern%20Architectures&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=220&section=header&text=CSE494%20NoSQL%20Databases&fontSize=50&fontAlignY=40&desc=Intelligent%20Data%20Modeling%20and%20Modern%20Architectures&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Credits-4-047857?style=for-the-badge" alt="Credits" />
-  <img src="https://img.shields.io/badge/L--T--P-3--0--2-34d399?style=for-the-badge" alt="Structure" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-6ee7b7?style=for-the-badge&logo=mongodb" alt="Core Tech" />
+  <img src="https://img.shields.io/badge/Credits-4-12c2e9?style=for-the-badge" alt="Credits" />
+  <img src="https://img.shields.io/badge/L--T--P-3--0--2-c471ed?style=for-the-badge" alt="Structure" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-f64f59?style=for-the-badge&logo=mongodb" alt="Core Tech" />
 </div>
 
 <br>
@@ -17,7 +17,7 @@ This module provides a rigorous examination of non-relational database architect
 The curriculum bridges the gap between raw data storage and application-level analytics by integrating AI-driven predictive analytics and high-performance querying frameworks.
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=047857,10b981&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=2" width="100%"/>
 <br>
 
 ## 🛠️ Technology Stack & Competencies
@@ -28,7 +28,7 @@ The curriculum bridges the gap between raw data storage and application-level an
 * **Core Concepts:** CAP Theorem, BSON formatting, Aggregation Pipelines, Schema validation
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=047857,10b981&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=2" width="100%"/>
 <br>
 
 ## 📖 Module Architecture
@@ -68,5 +68,5 @@ The curriculum bridges the gap between raw data storage and application-level an
 <div align="center">
   <i>"Scalability is not an afterthought; it is an architectural prerequisite."</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=047857,10b981&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=120&section=footer" width="100%" />
 </div>

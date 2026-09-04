@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0284c7,0ea5e9&height=220&section=header&text=INT315%20Cluster%20Computing&fontSize=50&fontAlignY=40&desc=Distributed%20Systems%20and%20High-Performance%20Analytics&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fc466b,3f5efb&height=220&section=header&text=INT315%20Cluster%20Computing&fontSize=50&fontAlignY=40&desc=Distributed%20Systems%20and%20High-Performance%20Analytics&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Credits-3-0284c7?style=for-the-badge" alt="Credits" />
-  <img src="https://img.shields.io/badge/L--T--P-2--0--2-38bdf8?style=for-the-badge" alt="Structure" />
-  <img src="https://img.shields.io/badge/Core-Apache_Spark-7dd3fc?style=for-the-badge&logo=apachespark" alt="Core Tech" />
+  <img src="https://img.shields.io/badge/Credits-3-fc466b?style=for-the-badge" alt="Credits" />
+  <img src="https://img.shields.io/badge/L--T--P-2--0--2-9852b3?style=for-the-badge" alt="Structure" />
+  <img src="https://img.shields.io/badge/Core-Apache_Spark-3f5efb?style=for-the-badge&logo=apachespark" alt="Core Tech" />
 </div>
 
 <br>
@@ -17,7 +17,7 @@ This module provides an advanced exploration of cluster computing architectures 
 The curriculum covers theoretical paradigms of distributed systems alongside practical implementations of data pipelines, real-time streaming, and distributed machine learning algorithms.
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0284c7,0ea5e9&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=fc466b,3f5efb&height=2" width="100%"/>
 <br>
 
 ## 🛠️ Technology Stack & Competencies
@@ -28,7 +28,7 @@ The curriculum covers theoretical paradigms of distributed systems alongside pra
 * **Architectural Concepts:** RDDs, DataFrames, DAG Execution, Micro-batching
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0284c7,0ea5e9&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=fc466b,3f5efb&height=2" width="100%"/>
 <br>
 
 ## 📖 Module Architecture
@@ -68,5 +68,5 @@ The curriculum covers theoretical paradigms of distributed systems alongside pra
 <div align="center">
   <i>"Data is the new oil, but clusters are the refineries."</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0284c7,0ea5e9&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fc466b,3f5efb&height=120&section=footer" width="100%" />
 </div>
