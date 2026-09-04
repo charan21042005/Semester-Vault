@@ -1,48 +1,68 @@
-# 🗄️ CSE494: Intelligent NoSQL Databases
-
-![Banner](https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:10b981&height=220&section=header&text=CSE494%20NoSQL%20Databases&fontSize=50&fontAlignY=40&desc=Intelligent%20Data%20Modeling%20%26%20Modern%20Architectures&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Credits-4-8CA2F7?style=for-the-badge" alt="Credits" />
-  <img src="https://img.shields.io/badge/L--T--P-3--0--2-B497D6?style=for-the-badge" alt="Structure" />
+  <img src="https://img.shields.io/badge/Credits-4-047857?style=for-the-badge" alt="Credits" />
+  <img src="https://img.shields.io/badge/L--T--P-3--0--2-34d399?style=for-the-badge" alt="Structure" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-6ee7b7?style=for-the-badge&logo=mongodb" alt="Core Tech" />
 </div>
 
 <br>
 
-Welcome to the **CSE494** outline! This course explores modern, intelligent NoSQL database architectures focusing on MongoDB. It covers everything from basic CRUD operations to advanced schema design, indexing, and integrating databases for AI applications.
+## 📌 Course Overview
 
-## 📖 Course Syllabus
+This module provides a rigorous examination of non-relational database architectures, engineered for horizontal scalability, high performance, and schema flexibility. Moving beyond traditional ACID-compliant RDBMS models, this course dives deep into **MongoDB**, exploring intelligent data modeling, distributed storage mechanisms, and complex aggregation pipelines.
 
-Here is the breakdown of the units covered in this course:
+The curriculum bridges the gap between raw data storage and application-level analytics by integrating AI-driven predictive analytics and high-performance querying frameworks.
 
-### [Unit I: Introduction to NoSQL and MongoDB](./Unit-1-Introduction-to-NoSQL-and-MongoDB)
-- SQL vs. NoSQL comparison.
-- CAP Theorem and trade-offs.
-- NoSQL Data Models (Key-value, Column, Document, Graph).
-- MongoDB Architecture, Installation, Shell, Compass, and Atlas Overview.
+---
 
-### [Unit II: MongoDB Basics and CRUD Operations](./Unit-2-MongoDB-Basics-and-CRUD)
-- Databases, Collections, Documents, and BSON Data Types.
-- Creating and Dropping Databases/Collections.
-- Data Modeling and basic Query Optimization in MongoDB.
+## 🛠️ Technology Stack & Competencies
 
-### [Unit III: Schema Design and Data Modeling](./Unit-3-Schema-Design-and-Data-Modeling)
-- Schema-less nature of MongoDB.
-- Embedding vs. Referencing.
-- 1:1, 1:N, M:N Relationships.
-- Validation Rules, Constraints, and Data Modeling Best Practices.
+* **Databases:** MongoDB (Atlas, Compass, Shell)
+* **Data Models:** Key-Value, Document, Column-Family, Graph
+* **Integration Ecosystem:** Node.js (Mongoose), Python (PyMongo)
+* **Core Concepts:** CAP Theorem, BSON formatting, Aggregation Pipelines, Schema validation
 
-### [Unit IV: Indexing and Aggregation Framework](./Unit-4-Indexing-and-Aggregation)
-- Indexing Basics (Single, Compound, Text).
-- Performance indexing, Covered Queries, and `explain()`.
-- Aggregation Pipeline Concepts and Real-world Examples.
+---
 
-### [Unit V: MongoDB Integration](./Unit-5-MongoDB-Integration)
-- Integration with Node.js (Mongoose) and Python (PyMongo).
-- CRUD using Application Code.
-- MongoDB for AI-based Predictive Analytics and AI-driven Query Optimization.
+## 📖 Module Architecture
 
-### [Unit VI: Project](./Unit-6-Project)
-- Building a Mini Project.
-- Best Practices for Production.
-- Course Recap, Final Assessment, and Future Trends (AI-Augmented Databases & AutoML).
+### 🏛️ [Unit I: Introduction to NoSQL & MongoDB](./Unit-1-Introduction-to-NoSQL-and-MongoDB)
+* SQL vs. NoSQL paradigms and the CAP Theorem trade-offs.
+* Categorization of NoSQL models (Document, Key-Value, Column, Graph).
+* MongoDB Architecture, Cloud Atlas provisioning, and Compass GUI.
+
+### ⚙️ [Unit II: Basics and CRUD Operations](./Unit-2-MongoDB-Basics-and-CRUD)
+* Database hierarchies: Databases $\rightarrow$ Collections $\rightarrow$ Documents.
+* BSON data structures and types.
+* Advanced CRUD operations and basic query optimization.
+
+### 📐 [Unit III: Schema Design & Data Modeling](./Unit-3-Schema-Design-and-Data-Modeling)
+* Embracing schema-less flexibility with validation constraints.
+* Embedding documents vs. referencing documents.
+* Designing 1:1, 1:N, and M:N relationships for scale.
+
+### 🔍 [Unit IV: Indexing & Aggregation Framework](./Unit-4-Indexing-and-Aggregation)
+* Index configurations: Single, Compound, Text indexes.
+* Query execution plans, covered queries, and `explain()` performance tuning.
+* Multi-stage aggregation pipelines for complex data transformations.
+
+### 🔗 [Unit V: MongoDB Integration](./Unit-5-MongoDB-Integration)
+* Full-stack integration via Node.js (Mongoose ODM) and Python (PyMongo).
+* Database layers for AI-based predictive analytics.
+* AI-driven query optimization and intelligent routing.
+
+### 🚀 [Unit VI: Capstone Project](./Unit-6-Project)
+* End-to-end mini-project development.
+* Best practices for production deployment and security.
+* Future Database Trends: AI-Augmented Databases and AutoML integration.
+
+---
+
+<div align="center">
+  <i>"Scalability is not an afterthought; it is an architectural prerequisite."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:10b981&height=120&section=footer" width="100%" />
+</div>

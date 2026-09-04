@@ -1,49 +1,68 @@
-# ☁️ INT315: Cluster Computing
-
-![Banner](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0ea5e9&height=220&section=header&text=INT315%20Cluster%20Computing&fontSize=50&fontAlignY=40&desc=Distributed%20Systems%20%26%20High-Performance%20Analytics&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
+</div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Credits-3-8CA2F7?style=for-the-badge" alt="Credits" />
-  <img src="https://img.shields.io/badge/L--T--P-2--0--2-B497D6?style=for-the-badge" alt="Structure" />
+  <img src="https://img.shields.io/badge/Credits-3-0284c7?style=for-the-badge" alt="Credits" />
+  <img src="https://img.shields.io/badge/L--T--P-2--0--2-38bdf8?style=for-the-badge" alt="Structure" />
+  <img src="https://img.shields.io/badge/Core-Apache_Spark-7dd3fc?style=for-the-badge&logo=apachespark" alt="Core Tech" />
 </div>
 
 <br>
 
-Welcome to the **INT315** outline! This course is designed to take you on a journey through distributed systems, big data processing, and cluster computing architectures, heavily focusing on Apache Spark and Scala.
+## 📌 Course Overview
 
-## 📖 Course Syllabus
+This module provides an advanced exploration of cluster computing architectures and distributed data processing frameworks. Designed for modern data engineering requirements, the course emphasizes fault-tolerance, high availability, and in-memory processing capabilities utilizing the **Apache Spark** ecosystem.
 
-Here is the breakdown of the units covered in this course:
+The curriculum covers theoretical paradigms of distributed systems alongside practical implementations of data pipelines, real-time streaming, and distributed machine learning algorithms.
 
-### [Unit I: Introduction to Spark](./Unit-1-Introduction-to-Spark)
-- Limitations of MapReduce in Hadoop.
-- Batch vs. real-time analytics.
-- Stream processing & in-memory processing.
-- Spark installation and Hadoop ecosystem comparison.
+---
 
-### [Unit II: Introduction to Programming in Scala](./Unit-2-Programming-in-Scala)
-- Scala features, basic data types, and literals.
-- Operators, methods, type inference.
-- Mutable vs. immutable collections.
-- Functions, lists, maps, and streams in Scala.
+## 🛠️ Technology Stack & Competencies
 
-### [Unit III: Using RDD for creating applications and Graph Analytics](./Unit-3-RDD-and-Graph-Analytics)
-- Features of RDDs, creating RDDs, functions and operations.
-- Spark Shell, shared variables.
-- Spark GraphX introduction, features, operations, feature extraction.
+* **Frameworks:** Apache Spark (Core, SQL, Streaming, MLlib, GraphX), Hadoop
+* **Messaging Systems:** Apache Kafka
+* **Programming Languages:** Scala, Python (PySpark)
+* **Architectural Concepts:** RDDs, DataFrames, DAG Execution, Micro-batching
 
-### [Unit IV: Running SQL queries using Spark SQL](./Unit-4-Spark-SQL)
-- Spark SQL features and importance.
-- Converting RDDs to DataFrames.
-- Joins, groupby, orderby, aggregate functions, and SQL wildcards.
+---
 
-### [Unit V: Spark Streaming with Apache Kafka](./Unit-5-Spark-Streaming-with-Kafka)
-- Apache Kafka fundamentals and cluster architecture.
-- Integration of Kafka with Spark.
-- Producer & consumer messaging models, pipelines, and ingestion patterns.
+## 📖 Module Architecture
 
-### [Unit VI: Spark ML Programming and PySpark](./Unit-6-Spark-ML-and-PySpark)
-- Introduction to Machine Learning with PySpark.
-- Spark MLlib, Key concepts, and ML algorithms.
-- Linear/Logistic Regression, Decision Tree, K-means, SVM, Naive Bayes.
-- Evaluation metrics: Confusion matrix, R2, RMSE, MAE, Correlation heat map.
+### ☁️ [Unit I: Introduction to Spark](./Unit-1-Introduction-to-Spark)
+* MapReduce limitations & the evolution to in-memory processing.
+* Batch vs. Real-time analytics architectures.
+* Spark ecosystem, components, and standalone installation.
+
+### 📝 [Unit II: Programming in Scala](./Unit-2-Programming-in-Scala)
+* Functional programming paradigms using Scala.
+* Data types, type inference, operators, and methods.
+* Immutable vs. Mutable collections, lazy evaluation via streams.
+
+### 📊 [Unit III: RDDs & Graph Analytics](./Unit-3-RDD-and-Graph-Analytics)
+* RDD architecture, transformations, and actions.
+* Shared variables (Broadcast variables & Accumulators).
+* Graph processing via Spark GraphX: node/edge transformations and feature extraction.
+
+### 🗃️ [Unit IV: Spark SQL & DataFrames](./Unit-4-Spark-SQL)
+* Spark SQL optimizer (Catalyst) and core features.
+* RDD to DataFrame schema inference and programmatic specification.
+* Advanced relational queries, joins, aggregations, and window functions.
+
+### 🔄 [Unit V: Spark Streaming with Kafka](./Unit-5-Spark-Streaming-with-Kafka)
+* Apache Kafka distributed messaging fundamentals and cluster architecture.
+* Producer-Consumer models, ingestion pipelines, and fault tolerance.
+* Integrating Kafka topics with Spark Streaming for real-time data processing.
+
+### 🧠 [Unit VI: Spark ML & PySpark](./Unit-6-Spark-ML-and-PySpark)
+* Distributed machine learning concepts via Spark MLlib.
+* Algorithms: Linear/Logistic Regression, Decision Trees, K-Means, SVM, Naive Bayes.
+* Model evaluation matrix: Confusion Matrix, R-squared, RMSE, MAE.
+
+---
+
+<div align="center">
+  <i>"Data is the new oil, but clusters are the refineries."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0ea5e9&height=120&section=footer" width="100%" />
+</div>
