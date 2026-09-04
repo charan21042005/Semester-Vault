@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0ea5e9&height=220&section=header&text=INT315%20Cluster%20Computing&fontSize=50&fontAlignY=40&desc=Distributed%20Systems%20%26%20High-Performance%20Analytics&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0284c7,0ea5e9&height=220&section=header&text=INT315%20Cluster%20Computing&fontSize=50&fontAlignY=40&desc=Distributed%20Systems%20and%20High-Performance%20Analytics&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -16,7 +16,9 @@ This module provides an advanced exploration of cluster computing architectures 
 
 The curriculum covers theoretical paradigms of distributed systems alongside practical implementations of data pipelines, real-time streaming, and distributed machine learning algorithms.
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0284c7,0ea5e9&height=2" width="100%"/>
+<br>
 
 ## 🛠️ Technology Stack & Competencies
 
@@ -25,7 +27,9 @@ The curriculum covers theoretical paradigms of distributed systems alongside pra
 * **Programming Languages:** Scala, Python (PySpark)
 * **Architectural Concepts:** RDDs, DataFrames, DAG Execution, Micro-batching
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0284c7,0ea5e9&height=2" width="100%"/>
+<br>
 
 ## 📖 Module Architecture
 
@@ -59,10 +63,10 @@ The curriculum covers theoretical paradigms of distributed systems alongside pra
 * Algorithms: Linear/Logistic Regression, Decision Trees, K-Means, SVM, Naive Bayes.
 * Model evaluation matrix: Confusion Matrix, R-squared, RMSE, MAE.
 
----
+<br>
 
 <div align="center">
   <i>"Data is the new oil, but clusters are the refineries."</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0ea5e9&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0284c7,0ea5e9&height=120&section=footer" width="100%" />
 </div>

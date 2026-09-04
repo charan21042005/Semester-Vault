@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:10b981&height=220&section=header&text=CSE494%20NoSQL%20Databases&fontSize=50&fontAlignY=40&desc=Intelligent%20Data%20Modeling%20%26%20Modern%20Architectures&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=047857,10b981&height=220&section=header&text=CSE494%20NoSQL%20Databases&fontSize=50&fontAlignY=40&desc=Intelligent%20Data%20Modeling%20and%20Modern%20Architectures&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -16,7 +16,9 @@ This module provides a rigorous examination of non-relational database architect
 
 The curriculum bridges the gap between raw data storage and application-level analytics by integrating AI-driven predictive analytics and high-performance querying frameworks.
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=047857,10b981&height=2" width="100%"/>
+<br>
 
 ## 🛠️ Technology Stack & Competencies
 
@@ -25,7 +27,9 @@ The curriculum bridges the gap between raw data storage and application-level an
 * **Integration Ecosystem:** Node.js (Mongoose), Python (PyMongo)
 * **Core Concepts:** CAP Theorem, BSON formatting, Aggregation Pipelines, Schema validation
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=047857,10b981&height=2" width="100%"/>
+<br>
 
 ## 📖 Module Architecture
 
@@ -59,10 +63,10 @@ The curriculum bridges the gap between raw data storage and application-level an
 * Best practices for production deployment and security.
 * Future Database Trends: AI-Augmented Databases and AutoML integration.
 
----
+<br>
 
 <div align="center">
   <i>"Scalability is not an afterthought; it is an architectural prerequisite."</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,100:10b981&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=047857,10b981&height=120&section=footer" width="100%" />
 </div>
