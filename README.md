@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained" />
-  <img src="https://img.shields.io/badge/Environment-Academic-blue?style=for-the-badge" alt="Environment" />
-  <img src="https://img.shields.io/badge/Focus-Data_Engineering_&_NoSQL-orange?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-8CA2F7?style=for-the-badge" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Environment-Academic-B497D6?style=for-the-badge" alt="Environment" />
+  <img src="https://img.shields.io/badge/Focus-Data_Engineering_&_NoSQL-E5989B?style=for-the-badge" alt="Focus" />
 </div>
 
 <br>

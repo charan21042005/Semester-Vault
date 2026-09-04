@@ -3,8 +3,8 @@
 ![Banner](https://images.unsplash.com/photo-1544383835-bda2bc66a55d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Credits-4-blue?style=for-the-badge" alt="Credits" />
-  <img src="https://img.shields.io/badge/L--T--P-3--0--2-orange?style=for-the-badge" alt="Structure" />
+  <img src="https://img.shields.io/badge/Credits-4-8CA2F7?style=for-the-badge" alt="Credits" />
+  <img src="https://img.shields.io/badge/L--T--P-3--0--2-B497D6?style=for-the-badge" alt="Structure" />
 </div>
 
 <br>
