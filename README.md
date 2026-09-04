@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=header&text=Semester%20Vault&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Academic%20Repository%20&%20Knowledge%20Base&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Semester%20Vault&fontSize=60&fontAlignY=40&desc=Academic%20Repository%20&%20Knowledge%20Base&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -71,5 +71,5 @@ Semester-Vault/
 <div align="center">
   <i>Committed to continuous learning and technical excellence.</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=200&section=footer&text=Semester%20Vault&fontSize=60&fontColor=ffffff&fontAlignY=60&desc=Academic%20Repository%20&%20Knowledge%20Base&descAlignY=40&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
 </div>
