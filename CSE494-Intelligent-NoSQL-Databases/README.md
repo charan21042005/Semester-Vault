@@ -1,72 +1,103 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=220&section=header&text=CSE494%20NoSQL%20Databases&fontSize=50&fontAlignY=40&desc=Intelligent%20Data%20Modeling%20and%20Modern%20Architectures&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11998e,38ef7d&height=250&section=header&text=NoSQL%20Databases&fontSize=60&fontAlignY=35&desc=CSE494&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+  
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=11998e&center=true&vCenter=true&width=650&lines=Intelligent+Data+Modeling;MongoDB+Architecture;Advanced+Aggregation+Pipelines;AI-Driven+Database+Analytics" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Credits-4-12c2e9?style=for-the-badge" alt="Credits" />
-  <img src="https://img.shields.io/badge/L--T--P-3--0--2-c471ed?style=for-the-badge" alt="Structure" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-f64f59?style=for-the-badge&logo=mongodb" alt="Core Tech" />
+  <img src="https://img.shields.io/badge/Credits-4-11998e?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Credits" />
+  <img src="https://img.shields.io/badge/L--T--P-3--0--2-38ef7d?style=for-the-badge&logo=bookstack&logoColor=white" alt="Structure" />
+  <img src="https://img.shields.io/badge/Status-Ongoing-success?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
 </div>
 
 <br>
 
-## 📌 Course Overview
+## 🔮 Executive Overview
 
-This module provides a rigorous examination of non-relational database architectures, engineered for horizontal scalability, high performance, and schema flexibility. Moving beyond traditional ACID-compliant RDBMS models, this course dives deep into **MongoDB**, exploring intelligent data modeling, distributed storage mechanisms, and complex aggregation pipelines.
+Welcome to the future of data storage! **CSE494** is an advanced module dedicated to exploring non-relational database paradigms designed for massive horizontal scalability, ultra-low latency, and absolute schema flexibility. 
 
-The curriculum bridges the gap between raw data storage and application-level analytics by integrating AI-driven predictive analytics and high-performance querying frameworks.
+We are leaving ACID-constrained RDBMS in the rearview mirror and plunging into **MongoDB**, exploring how modern intelligent databases are architected to fuel AI-driven predictive analytics and high-throughput applications.
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=2" width="100%"/>
-<br>
-
-## 🛠️ Technology Stack & Competencies
-
-* **Databases:** MongoDB (Atlas, Compass, Shell)
-* **Data Models:** Key-Value, Document, Column-Family, Graph
-* **Integration Ecosystem:** Node.js (Mongoose), Python (PyMongo)
-* **Core Concepts:** CAP Theorem, BSON formatting, Aggregation Pipelines, Schema validation
+> *"Scalability is not an afterthought; it is an architectural prerequisite."*
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11998e,38ef7d&height=2" width="100%"/>
 <br>
 
-## 📖 Module Architecture
+## 🛠️ Tech Stack & Engineering Toolkit
 
-### 🏛️ [Unit I: Introduction to NoSQL & MongoDB](./Unit-1-Introduction-to-NoSQL-and-MongoDB)
+Here is the tech stack we use to build intelligent data pipelines:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+</div>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11998e,38ef7d&height=2" width="100%"/>
+<br>
+
+## 🗺️ Curriculum Blueprint
+
+<details open>
+<summary><b>🏛️ Unit I: Introduction to NoSQL & MongoDB</b></summary>
+<br>
+
 * SQL vs. NoSQL paradigms and the CAP Theorem trade-offs.
 * Categorization of NoSQL models (Document, Key-Value, Column, Graph).
 * MongoDB Architecture, Cloud Atlas provisioning, and Compass GUI.
+</details>
 
-### ⚙️ [Unit II: Basics and CRUD Operations](./Unit-2-MongoDB-Basics-and-CRUD)
+<details>
+<summary><b>⚙️ Unit II: Basics and CRUD Operations</b></summary>
+<br>
+
 * Database hierarchies: Databases $\rightarrow$ Collections $\rightarrow$ Documents.
 * BSON data structures and types.
 * Advanced CRUD operations and basic query optimization.
+</details>
 
-### 📐 [Unit III: Schema Design & Data Modeling](./Unit-3-Schema-Design-and-Data-Modeling)
+<details>
+<summary><b>📐 Unit III: Schema Design & Data Modeling</b></summary>
+<br>
+
 * Embracing schema-less flexibility with validation constraints.
 * Embedding documents vs. referencing documents.
 * Designing 1:1, 1:N, and M:N relationships for scale.
+</details>
 
-### 🔍 [Unit IV: Indexing & Aggregation Framework](./Unit-4-Indexing-and-Aggregation)
+<details>
+<summary><b>🔍 Unit IV: Indexing & Aggregation Framework</b></summary>
+<br>
+
 * Index configurations: Single, Compound, Text indexes.
 * Query execution plans, covered queries, and `explain()` performance tuning.
 * Multi-stage aggregation pipelines for complex data transformations.
+</details>
 
-### 🔗 [Unit V: MongoDB Integration](./Unit-5-MongoDB-Integration)
+<details>
+<summary><b>🔗 Unit V: MongoDB Integration</b></summary>
+<br>
+
 * Full-stack integration via Node.js (Mongoose ODM) and Python (PyMongo).
 * Database layers for AI-based predictive analytics.
 * AI-driven query optimization and intelligent routing.
+</details>
 
-### 🚀 [Unit VI: Capstone Project](./Unit-6-Project)
+<details>
+<summary><b>🚀 Unit VI: Capstone Project</b></summary>
+<br>
+
 * End-to-end mini-project development.
 * Best practices for production deployment and security.
 * Future Database Trends: AI-Augmented Databases and AutoML integration.
+</details>
 
 <br>
 
 <div align="center">
-  <i>"Scalability is not an afterthought; it is an architectural prerequisite."</i>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12c2e9,c471ed,f64f59&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11998e,38ef7d&height=120&section=footer" width="100%" />
 </div>
