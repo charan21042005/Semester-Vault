@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Cluster%20Computing&fontSize=60&fontAlignY=35&desc=INT315&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=250&section=header&text=INT315:%20Cluster%20Computing&fontSize=55&fontAlignY=35&desc=Architecting%20Distributed%20Systems%20and%20Data%20Pipelines&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
   
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072ff&center=true&vCenter=true&width=500&lines=Distributed+Systems;High-Performance+Analytics;Apache+Spark+Mastery" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF416C&center=true&vCenter=true&width=500&lines=Distributed+Systems;High-Performance+Analytics;Apache+Spark+Mastery" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@ Welcome to the core of modern data engineering! **INT315** is an industry-grade 
 > *"If data is the new oil, cluster computing is the state-of-the-art refinery."*
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=2" width="100%"/>
 <br>
 
 ## ⚙️ Tech Stack & Engineering Toolkit
@@ -36,7 +36,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=2" width="100%"/>
 <br>
 
 ## 🗺️ Curriculum Blueprint
@@ -98,5 +98,5 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer" width="100%" />
 </div>
