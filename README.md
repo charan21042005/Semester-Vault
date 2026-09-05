@@ -1,11 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0366d6,6f42c1,d73a49&height=250&section=header&text=Semester%20Vault&fontSize=80&fontAlignY=35&desc=Welcome%20to%20my%20academic%20universe!&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7400FF,00E5FF,00FF41&height=250&section=header&text=Semester%20Vault&fontSize=85&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20the%20Academic%20Nexus&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Academics-0366d6?style=for-the-badge&logo=bookstack" alt="Academic Notes" />
-  <img src="https://img.shields.io/badge/Courses-2_Active-d73a49?style=for-the-badge&logo=google-scholar" alt="Semester" />
+  <img src="https://img.shields.io/badge/Status-Active-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Academics-00E5FF?style=for-the-badge&logo=bookstack&logoColor=black" alt="Academic Notes" />
+  <img src="https://img.shields.io/badge/Courses-2_Active-FF007F?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Semester" />
+  <img src="https://img.shields.io/badge/Vibe-Cyberpunk-7400FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Vibe" />
 </div>
 
 <br>
@@ -17,11 +18,12 @@
 
 ---
 
-## 🎨 Color Palette & Vibe
+## 🎨 Cyber Nexus Palette & Vibe
 
-I'm using a beautiful gradient palette to keep everything aesthetically pleasing and easy on the eyes while studying!
+Upgraded to a stunning, heavy cyberpunk-inspired gradient palette. Designed to look sharp, striking, and visually immersive during late-night study sessions!
+
 <div align="center">
-  <img src="https://readme-swatches.vercel.app/api?colors=2ea44f,0366d6,d73a49,6f42c1,ffd33d" alt="Color Palette" />
+  <img src="https://readme-swatches.vercel.app/api?colors=FF007F,7400FF,00E5FF,00FF41,1B1B2F&title=Cyber%20Nexus&textColor=ffffff" alt="Color Palette" />
 </div>
 
 ---
@@ -34,11 +36,13 @@ Here are the primary subjects I am exploring this semester. Click on the links t
 Dive into the architecture, configuration, and management of distributed systems and computer clusters. Heavily relying on Apache Spark and Scala.
 - **Credits:** 3 (L:2 T:0 P:2)
 - **Directory:** [`/INT315-Cluster-Computing`](./INT315-Cluster-Computing)
+- **Tech Stack:** <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="Spark" /> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
 
 ### 🗄️ [CSE494: Intelligent NoSQL Databases](./CSE494-Intelligent-NoSQL-Databases)
 Explore modern, intelligent NoSQL database architectures, focusing heavily on MongoDB, data modeling, aggregation frameworks, and AI-driven query optimizations.
 - **Credits:** 4 (L:3 T:0 P:2)
 - **Directory:** [`/CSE494-Intelligent-NoSQL-Databases`](./CSE494-Intelligent-NoSQL-Databases)
+- **Tech Stack:** <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
 ---
 
@@ -69,5 +73,5 @@ Semester-Vault/
   <br>
   <i>"An investment in knowledge pays the best interest." — Benjamin Franklin</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0366d6,6f42c1,d73a49&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7400FF,00E5FF,00FF41&height=100&section=footer" width="100%" />
 </div>
