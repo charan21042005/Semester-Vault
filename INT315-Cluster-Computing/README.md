@@ -86,7 +86,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Scala Vector, Set, Map Cheat Sheet (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/5.Scala_Vector_Set_Map_Cheat_Sheet.md) |
 | 🌟 **MD** | **Scala Functions & LazyList Cheat Sheet (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/6.Scala_Functions_LazyList_Cheat_Sheet.md) |
 | 🌟 **MD** | **Scala Summary Cheat Sheet (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/7.Scala_Summary_Cheat_Sheet.md) |
-| 📘 DOCX | Introduction to Scala | [View File](./Unit-2-Programming-in-Scala/0.INT315_Unit2_Introduction_to_Scala.docx) |
+| 📘 PDF | Introduction to Scala | [View File](./Unit-2-Programming-in-Scala/0.INT315_Unit2_Introduction_to_Scala.pdf) |
 
 </details>
 
