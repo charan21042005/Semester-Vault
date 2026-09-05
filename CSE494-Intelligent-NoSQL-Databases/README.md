@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b224ef,100:7579ff&height=250&section=header&text=CSE494:%20Intelligent%20NoSQL&fontSize=55&fontAlignY=35&desc=Modern%20Data%20Modeling%20and%20MongoDB%20Architectures&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
   
   <br>
@@ -13,7 +13,7 @@
 
 <br>
 
-## 🔮 Executive Overview
+## 🎯 Executive Overview
 
 Welcome to the future of data storage! **CSE494** is an advanced module dedicated to exploring non-relational database paradigms designed for massive horizontal scalability, ultra-low latency, and absolute schema flexibility. 
 
@@ -21,11 +21,14 @@ We are leaving ACID-constrained RDBMS in the rearview mirror and plunging into *
 
 > *"Scalability is not an afterthought; it is an architectural prerequisite."*
 
+> [!TIP]
+> **Study Guide:** While both PDF and DOCX files may be provided, **exploring and following the .md (Markdown) files is highly recommended and completely sufficient.** They cover all the material comprehensively and are natively readable directly on GitHub!
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b224ef,100:7579ff&height=2" width="100%"/>
 <br>
 
-## 🛠️ Tech Stack & Engineering Toolkit
+## ⚙️ Tech Stack & Engineering Toolkit
 
 Here is the tech stack we use to build intelligent data pipelines:
 
@@ -43,58 +46,108 @@ Here is the tech stack we use to build intelligent data pipelines:
 ## 🗺️ Curriculum Blueprint
 
 <details open>
-<summary><b>🏛️ Unit I: Introduction to NoSQL & MongoDB</b></summary>
+<summary><b>🗄️ Unit I: Introduction to NoSQL & MongoDB</b></summary>
 <br>
 
 * SQL vs. NoSQL paradigms and the CAP Theorem trade-offs.
 * Categorization of NoSQL models (Document, Key-Value, Column, Graph).
 * MongoDB Architecture, Cloud Atlas provisioning, and Compass GUI.
+
+<br>
+
+**📖 Unit 1 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 DOCX | Unit 1: NoSQL & MongoDB | [View File](./Unit-1-Introduction-to-NoSQL-and-MongoDB/1.CSE494_Unit1_NoSQL_MongoDB.docx) |
 </details>
 
-<details>
-<summary><b>⚙️ Unit II: Basics and CRUD Operations</b></summary>
+<details open>
+<summary><b>⚡ Unit II: Basics and CRUD Operations</b></summary>
 <br>
 
 * Database hierarchies: Databases $\rightarrow$ Collections $\rightarrow$ Documents.
 * BSON data structures and types.
 * Advanced CRUD operations and basic query optimization.
+
+<br>
+
+**📖 Unit 2 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 DOCX | Unit 2: Basics & CRUD | [View File](./Unit-2-MongoDB-Basics-and-CRUD/2.CSE494_Unit2_MongoDB_Basics_CRUD.docx) |
 </details>
 
-<details>
+<details open>
 <summary><b>📐 Unit III: Schema Design & Data Modeling</b></summary>
 <br>
 
 * Embracing schema-less flexibility with validation constraints.
 * Embedding documents vs. referencing documents.
 * Designing 1:1, 1:N, and M:N relationships for scale.
+
+<br>
+
+**📖 Unit 3 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 DOCX | Unit 3: Schema & Data Modeling | [View File](./Unit-3-Schema-Design-and-Data-Modeling/3.CSE494_Unit3_Schema_Design_Data_Modeling.docx) |
 </details>
 
-<details>
+<details open>
 <summary><b>🔍 Unit IV: Indexing & Aggregation Framework</b></summary>
 <br>
 
 * Index configurations: Single, Compound, Text indexes.
-* Query execution plans, covered queries, and `explain()` performance tuning.
+* Query execution plans, covered queries, and explain() performance tuning.
 * Multi-stage aggregation pipelines for complex data transformations.
+
+<br>
+
+**📖 Unit 4 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 DOCX | Unit 4: Indexing & Aggregation | [View File](./Unit-4-Indexing-and-Aggregation/4.CSE494_Unit4_Indexing_Aggregation.docx) |
 </details>
 
-<details>
+<details open>
 <summary><b>🔗 Unit V: MongoDB Integration</b></summary>
 <br>
 
 * Full-stack integration via Node.js (Mongoose ODM) and Python (PyMongo).
 * Database layers for AI-based predictive analytics.
 * AI-driven query optimization and intelligent routing.
+
+<br>
+
+**📖 Unit 5 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 DOCX | Unit 5: Integration & AI | [View File](./Unit-5-MongoDB-Integration/5.CSE494_Unit5_Integration_AI.docx) |
 </details>
 
-<details>
+<details open>
 <summary><b>🚀 Unit VI: Capstone Project</b></summary>
 <br>
 
 * End-to-end mini-project development.
 * Best practices for production deployment and security.
 * Future Database Trends: AI-Augmented Databases and AutoML integration.
+
+<br>
+
+**📖 Unit 6 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 DOCX | Unit 6: Project & Future Trends | [View File](./Unit-6-Project/6.CSE494_Unit6_MiniProject_Production_FutureTrends%20(1).docx) |
 </details>
+
+<br>
+
+## 📚 Complete Course Companion
+
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 DOCX | **CSE494 Complete Course Companion** | [View File](./7.CSE494_Complete_Course_Companion.docx) |
 
 <br>
 
