@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11998e,38ef7d&height=250&section=header&text=NoSQL%20Databases&fontSize=60&fontAlignY=35&desc=CSE494&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=250&section=header&text=NoSQL%20Databases&fontSize=60&fontAlignY=35&desc=CSE494&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
   
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=11998e&center=true&vCenter=true&width=650&lines=Intelligent+Data+Modeling;MongoDB+Architecture;Advanced+Aggregation+Pipelines;AI-Driven+Database+Analytics" alt="Typing SVG" />
@@ -22,7 +22,7 @@ We are leaving ACID-constrained RDBMS in the rearview mirror and plunging into *
 > *"Scalability is not an afterthought; it is an architectural prerequisite."*
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11998e,38ef7d&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=2" width="100%"/>
 <br>
 
 ## 🛠️ Tech Stack & Engineering Toolkit
@@ -37,7 +37,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11998e,38ef7d&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:11998e,100:38ef7d&height=2" width="100%"/>
 <br>
 
 ## 🗺️ Curriculum Blueprint
@@ -99,5 +99,5 @@ Here is the tech stack we use to build intelligent data pipelines:
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11998e,38ef7d&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=120&section=footer" width="100%" />
 </div>

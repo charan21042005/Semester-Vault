@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,00ff87&height=250&section=header&text=Semester%20Vault&fontSize=80&fontAlignY=35&desc=Academic%20Knowledge%20Base&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:00ff87&height=250&section=header&text=Semester%20Vault&fontSize=80&fontAlignY=35&desc=Academic%20Knowledge%20Base&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
 
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Software+Engineering+Portfolio;Data+Science+%26+Database+Systems;Continuous+Learning+Journey" alt="Typing SVG" />
@@ -18,7 +18,7 @@
 This repository serves as the central version-controlled workspace for current academic coursework. It encapsulates lecture notes, architectural diagrams, and hands-on technical projects to maintain a highly organized and deployed record of all learning modules.
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00c6ff,00ff87&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:00ff87&height=2" width="100%"/>
 <br>
 
 ## 📚 Active Course Directory
@@ -29,7 +29,7 @@ This repository serves as the central version-controlled workspace for current a
 | **🗄️ CSE494** | **Intelligent NoSQL Databases** | MongoDB, Advanced Aggregation, AI-Driven Architectures | [Go to CSE494](./CSE494-Intelligent-NoSQL-Databases) |
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00c6ff,00ff87&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:00ff87&height=2" width="100%"/>
 <br>
 
 ## 🛠️ Global Technology Stack
@@ -44,7 +44,7 @@ This repository serves as the central version-controlled workspace for current a
 <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00c6ff,00ff87&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:00ff87&height=2" width="100%"/>
 <br>
 
 ## 📈 GitHub Activity
@@ -57,5 +57,5 @@ This repository serves as the central version-controlled workspace for current a
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,00ff87&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:00ff87&height=120&section=footer" width="100%" />
 </div>
