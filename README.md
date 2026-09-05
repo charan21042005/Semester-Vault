@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Semester%20Vault&fontSize=80&fontAlignY=35&desc=Welcome%20to%20my%20academic%20universe!&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0366d6,6f42c1,d73a49&height=250&section=header&text=Semester%20Vault&fontSize=80&fontAlignY=35&desc=Welcome%20to%20my%20academic%20universe!&descAlignY=55&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
@@ -69,5 +69,5 @@ Semester-Vault/
   <br>
   <i>"An investment in knowledge pays the best interest." — Benjamin Franklin</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0366d6,6f42c1,d73a49&height=100&section=footer" width="100%" />
 </div>
