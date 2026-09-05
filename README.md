@@ -1,77 +1,81 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7400FF,00E5FF,00FF41&height=250&section=header&text=Semester%20Vault&fontSize=85&fontColor=ffffff&fontAlignY=35&desc=Welcome%20to%20the%20Academic%20Nexus&descAlignY=55&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=250&section=header&text=Semester%20Vault&fontSize=80&fontAlignY=35&desc=Welcome%20to%20my%20academic%20universe!&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94057&center=true&vCenter=true&width=600&lines=Academic+Knowledge+Base;Software+Engineering+Portfolio;Data+Science+%26+Database+Systems;Continuous+Learning+Journey" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Active-00FF41?style=for-the-badge&logo=github&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-Academics-00E5FF?style=for-the-badge&logo=bookstack&logoColor=black" alt="Academic Notes" />
-  <img src="https://img.shields.io/badge/Courses-2_Active-FF007F?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Semester" />
-  <img src="https://img.shields.io/badge/Vibe-Cyberpunk-7400FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Vibe" />
+  <img src="https://img.shields.io/badge/Status-Active_Semester-8A2387?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Data_Engineering-E94057?style=for-the-badge&logo=apache&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Courses-2_Active-F27121?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Courses" />
 </div>
 
 <br>
 
-<p align="center">
-  <b>This repository serves as a comprehensive and organized central hub for my ongoing semester.</b><br>
-  It contains all my daily notes, assignments, project files, and study resources tailored specifically for my current academic curriculum.
-</p>
+## 🌌 Executive Summary
 
----
+Welcome to my **Semester Vault**! This repository serves as the central nervous system for my current academic semester. It is a meticulously organized, version-controlled repository designed to track my daily coursework, architectural diagrams, lecture notes, and hands-on technical projects. 
 
-## 🎨 Cyber Nexus Palette & Vibe
+Rather than scattering notes across different platforms, everything I build and learn this semester is documented, coded, and deployed right here.
 
-Upgraded to a stunning, heavy cyberpunk-inspired gradient palette. Designed to look sharp, striking, and visually immersive during late-night study sessions!
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8A2387,E94057,F27121&height=2" width="100%"/>
+<br>
+
+## 🎨 Aesthetic & Vibe
+
+For this semester's repository, I've selected a vibrant **"Sunset Fire"** color palette to keep the workspace energizing, creative, and aesthetically pleasing during late-night study sessions!
 
 <div align="center">
-  <img src="https://readme-swatches.vercel.app/api?colors=FF007F,7400FF,00E5FF,00FF41,1B1B2F&title=Cyber%20Nexus&textColor=ffffff" alt="Color Palette" />
+  <img src="https://readme-swatches.vercel.app/api?colors=8A2387,E94057,F27121,FFD3A5,1A1A24" alt="Color Palette" />
 </div>
 
----
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8A2387,E94057,F27121&height=2" width="100%"/>
+<br>
 
-## 📚 Enrolled Courses
+## 📚 Active Course Directory
 
-Here are the primary subjects I am exploring this semester. Click on the links to access the dedicated course materials!
+Here are the primary modules I am focusing on. Click to explore the dedicated syllabus, notes, and code repositories for each subject!
 
-### ☁️ [INT315: Cluster Computing](./INT315-Cluster-Computing)
-Dive into the architecture, configuration, and management of distributed systems and computer clusters. Heavily relying on Apache Spark and Scala.
-- **Credits:** 3 (L:2 T:0 P:2)
-- **Directory:** [`/INT315-Cluster-Computing`](./INT315-Cluster-Computing)
-- **Tech Stack:** <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="Spark" /> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
+| Course Code | Subject Name | Core Focus | Repository Link |
+| :---: | :--- | :--- | :---: |
+| **☁️ INT315** | **Cluster Computing** | Distributed Systems, High-Performance Analytics, Spark | [Go to INT315](./INT315-Cluster-Computing) |
+| **🗄️ CSE494** | **Intelligent NoSQL Databases** | MongoDB, Advanced Aggregation, AI-Driven Architectures | [Go to CSE494](./CSE494-Intelligent-NoSQL-Databases) |
 
-### 🗄️ [CSE494: Intelligent NoSQL Databases](./CSE494-Intelligent-NoSQL-Databases)
-Explore modern, intelligent NoSQL database architectures, focusing heavily on MongoDB, data modeling, aggregation frameworks, and AI-driven query optimizations.
-- **Credits:** 4 (L:3 T:0 P:2)
-- **Directory:** [`/CSE494-Intelligent-NoSQL-Databases`](./CSE494-Intelligent-NoSQL-Databases)
-- **Tech Stack:** <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8A2387,E94057,F27121&height=2" width="100%"/>
+<br>
 
----
+## 🛠️ Global Technology Stack
 
-## 🛠️ Repository Structure
+Across all courses this semester, I am mastering the following enterprise-grade technologies:
 
-```text
-Semester-Vault/
-├── ☁️ INT315-Cluster-Computing/
-│   ├── Unit-1-Introduction-to-Spark/
-│   ├── Unit-2-Programming-in-Scala/
-│   ├── Unit-3-RDD-and-Graph-Analytics/
-│   ├── Unit-4-Spark-SQL/
-│   ├── Unit-5-Spark-Streaming-with-Kafka/
-│   ├── Unit-6-Spark-ML-and-PySpark/
-│   └── README.md (Course Outline)
-├── 🗄️ CSE494-Intelligent-NoSQL-Databases/
-│   ├── Unit-1-Introduction-to-NoSQL-and-MongoDB/
-│   ├── Unit-2-MongoDB-Basics-and-CRUD/
-│   ├── Unit-3-Schema-Design-and-Data-Modeling/
-│   ├── Unit-4-Indexing-and-Aggregation/
-│   ├── Unit-5-MongoDB-Integration/
-│   ├── Unit-6-Project/
-│   └── README.md (Course Outline)
-└── 📄 README.md (You are here!)
-```
+### Big Data & Distributed Systems
+<img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" /> <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+
+### Database Architectures
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/BSON-E94057?style=for-the-badge&logo=databricks&logoColor=white" />
+
+### Programming Languages
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8A2387,E94057,F27121&height=2" width="100%"/>
+<br>
+
+## 📈 My GitHub Activity
 
 <div align="center">
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=charan21042005&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A24&title_color=E94057&text_color=FFFFFF&icon_color=F27121" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan21042005&theme=radical&hide_border=true&background=1A1A24&ring=E94057&fire=F27121&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
   <i>"An investment in knowledge pays the best interest." — Benjamin Franklin</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF007F,7400FF,00E5FF,00FF41&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2387,E94057,F27121&height=120&section=footer" width="100%" />
 </div>
