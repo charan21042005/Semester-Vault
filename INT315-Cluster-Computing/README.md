@@ -54,10 +54,10 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 **📖 Unit 1 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 📘 | **Prerequisites Handbook** | [View File](./Unit-1-Introduction-to-Spark/1.INT315_Prerequisites_Handbook.docx) |
-| 📘 | **Hadoop vs Spark Ecosystem** | [View File](./Unit-1-Introduction-to-Spark/2.Hadoop_Ecosystem_vs_Spark_Ecosystem%20(1).docx) |
-| 📘 | **Introduction to Spark (Part 1)** | [View File](./Unit-1-Introduction-to-Spark/3.INT315_Unit1_Introduction_to_Spark.docx) |
-| 📘 | **Introduction to Spark (Part 2)** | [View File](./Unit-1-Introduction-to-Spark/4.INT315_Unit1_Introduction_to_Spark.docx) |
+| 📘 | **Prerequisites Handbook** | [View File](./Unit-1-Introduction-to-Spark/1.INT315_Prerequisites_Handbook.pdf) |
+| 📘 | **Hadoop vs Spark Ecosystem** | [View File](./Unit-1-Introduction-to-Spark/2.Hadoop_Ecosystem_vs_Spark_Ecosystem%20(1).pdf) |
+| 📘 | **Introduction to Spark (Part 1)** | [View File](./Unit-1-Introduction-to-Spark/3.INT315_Unit1_Introduction_to_Spark.pdf) |
+| 📘 | **Introduction to Spark (Part 2)** | [View File](./Unit-1-Introduction-to-Spark/4.INT315_Unit1_Introduction_to_Spark.pdf) |
 | 📝 | **Spark & MapReduce Limitations** | [Read Notes](./Unit-1-Introduction-to-Spark/5.Unit1_Intro_to_Spark_and_MapReduce_Limitations.md) |
 | 📝 | **Viva Prep: Stream & Memory** | [Read Notes](./Unit-1-Introduction-to-Spark/6.Unit1_StreamAndMemory_SparkVsHadoop_30ViVa.md) |
 
