@@ -66,13 +66,28 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 
 </details>
 
-<details>
+<details open>
 <summary><b>📝 Unit II: Programming in Scala</b></summary>
 <br>
 
 * Functional programming paradigms using Scala.
 * Data types, type inference, operators, and methods.
 * Immutable vs. Mutable collections, lazy evaluation via streams.
+
+<br>
+
+**📖 Unit 2 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 🌟 **MD** | **Scala Intro, Data Types & Operators (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/1.Unit2_Scala_Intro_DataTypes_Operators_TypeInference.md) |
+| 🌟 **MD** | **Functions, Lists, Maps & Streams (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/2.Unit2_Mutability_Functions_Lists_Maps_Streams.md) |
+| 🌟 **MD** | **Practical Scenarios & Viva Questions (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/3.Unit2_Practical_Scenarios_and_30_Viva_Questions.md) |
+| 🌟 **MD** | **Scala Lists Cheat Sheet (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/4.Scala_Lists_Cheat_Sheet.md) |
+| 🌟 **MD** | **Scala Vector, Set, Map Cheat Sheet (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/5.Scala_Vector_Set_Map_Cheat_Sheet.md) |
+| 🌟 **MD** | **Scala Functions & LazyList Cheat Sheet (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/6.Scala_Functions_LazyList_Cheat_Sheet.md) |
+| 🌟 **MD** | **Scala Summary Cheat Sheet (Recommended)** | [Read Notes](./Unit-2-Programming-in-Scala/7.Scala_Summary_Cheat_Sheet.md) |
+| 📘 DOCX | Introduction to Scala | [View File](./Unit-2-Programming-in-Scala/0.INT315_Unit2_Introduction_to_Scala.docx) |
+
 </details>
 
 <details>
