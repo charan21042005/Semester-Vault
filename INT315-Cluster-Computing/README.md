@@ -19,6 +19,9 @@ Welcome to the core of modern data engineering! **INT315** is an industry-grade 
 
 > *"If data is the new oil, cluster computing is the state-of-the-art refinery."*
 
+> [!TIP]
+> **Study Guide:** While both PDF and Markdown (`.md`) notes are provided, **exploring and following the `.md` files is highly recommended and completely sufficient.** They cover all the material comprehensively and are natively readable directly on GitHub!
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=2" width="100%"/>
 <br>
@@ -54,12 +57,12 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 **📖 Unit 1 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 📘 | **Prerequisites Handbook** | [View File](./Unit-1-Introduction-to-Spark/1.INT315_Prerequisites_Handbook.pdf) |
-| 📘 | **Hadoop vs Spark Ecosystem** | [View File](./Unit-1-Introduction-to-Spark/2.Hadoop_Ecosystem_vs_Spark_Ecosystem%20(1).pdf) |
-| 📘 | **Introduction to Spark (Part 1)** | [View File](./Unit-1-Introduction-to-Spark/3.INT315_Unit1_Introduction_to_Spark.pdf) |
-| 📘 | **Introduction to Spark (Part 2)** | [View File](./Unit-1-Introduction-to-Spark/4.INT315_Unit1_Introduction_to_Spark.pdf) |
-| 📝 | **Spark & MapReduce Limitations** | [Read Notes](./Unit-1-Introduction-to-Spark/5.Unit1_Intro_to_Spark_and_MapReduce_Limitations.md) |
-| 📝 | **Viva Prep: Stream & Memory** | [Read Notes](./Unit-1-Introduction-to-Spark/6.Unit1_StreamAndMemory_SparkVsHadoop_30ViVa.md) |
+| 🌟 **MD** | **Spark & MapReduce Limitations (Recommended)** | [Read Notes](./Unit-1-Introduction-to-Spark/5.Unit1_Intro_to_Spark_and_MapReduce_Limitations.md) |
+| 🌟 **MD** | **Viva Prep: Stream & Memory (Recommended)** | [Read Notes](./Unit-1-Introduction-to-Spark/6.Unit1_StreamAndMemory_SparkVsHadoop_30ViVa.md) |
+| 📘 PDF | Prerequisites Handbook | [View File](./Unit-1-Introduction-to-Spark/1.INT315_Prerequisites_Handbook.pdf) |
+| 📘 PDF | Hadoop vs Spark Ecosystem | [View File](./Unit-1-Introduction-to-Spark/2.Hadoop_Ecosystem_vs_Spark_Ecosystem%20(1).pdf) |
+| 📘 PDF | Introduction to Spark (Part 1) | [View File](./Unit-1-Introduction-to-Spark/3.INT315_Unit1_Introduction_to_Spark.pdf) |
+| 📘 PDF | Introduction to Spark (Part 2) | [View File](./Unit-1-Introduction-to-Spark/4.INT315_Unit1_Introduction_to_Spark.pdf) |
 
 </details>
 
