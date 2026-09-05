@@ -47,12 +47,11 @@ This repository serves as the central version-controlled workspace for current a
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:00ff87&height=2" width="100%"/>
 <br>
 
-## 📈 GitHub Activity
+## 🎯 Semester Objectives
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan21042005&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan21042005&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+*   **Distributed Systems Mastery:** Develop a deep understanding of fault-tolerance, high availability, and in-memory data processing using Apache Spark.
+*   **Database Architecture:** Transition from relational paradigms to flexible, scalable, and intelligent NoSQL structures using MongoDB.
+*   **Real-world Application:** Implement end-to-end data pipelines and aggregation frameworks simulating production-level scenarios.
 
 <br>
 
