@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b224ef,100:7579ff&height=250&section=header&text=CSE494:%20Intelligent%20NoSQL&fontSize=55&fontAlignY=35&desc=Modern%20Data%20Modeling%20and%20MongoDB%20Architectures&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
   
   <br>
@@ -58,6 +58,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 **📖 Unit 1 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
+| 🌟 **MD** | **Intro & Teaching Methodology (Recommended)** | [Read Notes](./Unit-1-Introduction-to-NoSQL-and-MongoDB/1.NoSQL_Unit1_Intro_and_Teaching_Methodology.md) |
 | 📘 DOCX | Unit 1: NoSQL & MongoDB | [View File](./Unit-1-Introduction-to-NoSQL-and-MongoDB/1.CSE494_Unit1_NoSQL_MongoDB.docx) |
 </details>
 
