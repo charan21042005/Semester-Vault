@@ -59,6 +59,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | Type | File Name | Action |
 | :---: | :--- | :---: |
 | 🌟 **MD** | **Intro & Teaching Methodology (Recommended)** | [Read Notes](./Unit-1-Introduction-to-NoSQL-and-MongoDB/1.NoSQL_Unit1_Intro_and_Teaching_Methodology.md) |
+| 🌟 **MD** | **SQL vs NoSQL & MongoDB Overview (Recommended)** | [Read Notes](./Unit-1-Introduction-to-NoSQL-and-MongoDB/2.NoSQL_Unit1_SQLvsNoSQL_and_MongoDBOverview.md) |
 | 📘 DOCX | Unit 1: NoSQL & MongoDB | [View File](./Unit-1-Introduction-to-NoSQL-and-MongoDB/1.CSE494_Unit1_NoSQL_MongoDB.docx) |
 </details>
 
