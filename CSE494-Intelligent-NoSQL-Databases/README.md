@@ -63,6 +63,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **CAP Theorem & Data Models (Recommended)** | [Read Notes](./Unit-1-Introduction-to-NoSQL-and-MongoDB/3.NoSQL_Unit1_CAPTheorem_and_DataModels.md) |
 | 🌟 **MD** | **MongoDB Architecture & Installation (Recommended)** | [Read Notes](./Unit-1-Introduction-to-NoSQL-and-MongoDB/4.NoSQL_Unit1_MongoDBArchitecture_and_Installation.md) |
 | 🌟 **MD** | **MongoDB Shell, Compass & Atlas (Recommended)** | [Read Notes](./Unit-1-Introduction-to-NoSQL-and-MongoDB/5.NoSQL_Unit1_ShellCompass_and_Atlas.md) |
+| 🌟 **MD** | **Grand Consolidation (Recommended)** | [Read Notes](./Unit-1-Introduction-to-NoSQL-and-MongoDB/6.NoSQL_Unit1_GrandConsolidation.md) |
 | 📘 PDF | Unit 1: NoSQL & MongoDB | [View File](./Unit-1-Introduction-to-NoSQL-and-MongoDB/1.CSE494_Unit1_NoSQL_MongoDB.pdf) |
 </details>
 
