@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=250&section=header&text=INT315:%20Cluster%20Computing&fontSize=55&fontAlignY=35&desc=Architecting%20Distributed%20Systems%20and%20Data%20Pipelines&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
   
   <br>
@@ -45,7 +45,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 ## 🗺️ Curriculum Blueprint
 
 <details open>
-<summary><b>☁️ Unit I: Introduction to Spark</b></summary>
+<summary><b>💡 Unit I: Introduction to Spark</b></summary>
 <br>
 
 * MapReduce limitations & the evolution to in-memory processing.
@@ -67,7 +67,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 </details>
 
 <details open>
-<summary><b>📝 Unit II: Programming in Scala</b></summary>
+<summary><b>📐 Unit II: Programming in Scala</b></summary>
 <br>
 
 * Functional programming paradigms using Scala.
@@ -111,22 +111,36 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Unit IV: Spark SQL & DataFrames</b></summary>
 <br>
 
 * Spark SQL optimizer (Catalyst) and core features.
 * RDD to DataFrame schema inference and programmatic specification.
 * Advanced relational queries, joins, aggregations, and window functions.
+
+<br>
+
+**📖 Unit 4 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 PDF | Spark SQL | [View File](./Unit-4-Spark-SQL/0.INT315_Unit4_Spark_SQL.pdf) |
 </details>
 
-<details>
+<details open>
 <summary><b>📡 Unit V: Spark Streaming with Kafka</b></summary>
 <br>
 
 * Apache Kafka distributed messaging fundamentals and cluster architecture.
 * Producer-Consumer models, ingestion pipelines, and fault tolerance.
 * Integrating Kafka topics with Spark Streaming for real-time data processing.
+
+<br>
+
+**📖 Unit 5 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 PDF | Spark Streaming & Kafka | [View File](./Unit-5-Spark-Streaming-with-Kafka/0.INT315_Unit5_Spark_Streaming_Kafka.pdf) |
 </details>
 
 <details open>
