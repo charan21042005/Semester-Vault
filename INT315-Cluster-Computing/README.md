@@ -13,14 +13,14 @@
 
 <br>
 
-## 🌩️ Executive Overview
+## 🎯 Executive Overview
 
 Welcome to the core of modern data engineering! **INT315** is an industry-grade module focusing intensely on horizontal scalability, fault-tolerant distributed architectures, and ultra-fast in-memory processing. We leave traditional MapReduce behind and dive deep into the **Apache Spark** ecosystem.
 
 > *"If data is the new oil, cluster computing is the state-of-the-art refinery."*
 
 > [!TIP]
-> **Study Guide:** While both PDF and Markdown (`.md`) notes are provided, **exploring and following the `.md` files is highly recommended and completely sufficient.** They cover all the material comprehensively and are natively readable directly on GitHub!
+> **Study Guide:** While both PDF and Markdown (.md) notes are provided, **exploring and following the .md files is highly recommended and completely sufficient.** They cover all the material comprehensively and are natively readable directly on GitHub!
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=2" width="100%"/>
@@ -112,7 +112,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 </details>
 
 <details>
-<summary><b>🗃️ Unit IV: Spark SQL & DataFrames</b></summary>
+<summary><b>🗄️ Unit IV: Spark SQL & DataFrames</b></summary>
 <br>
 
 * Spark SQL optimizer (Catalyst) and core features.
@@ -121,7 +121,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 </details>
 
 <details>
-<summary><b>🔄 Unit V: Spark Streaming with Kafka</b></summary>
+<summary><b>📡 Unit V: Spark Streaming with Kafka</b></summary>
 <br>
 
 * Apache Kafka distributed messaging fundamentals and cluster architecture.
@@ -129,13 +129,20 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 * Integrating Kafka topics with Spark Streaming for real-time data processing.
 </details>
 
-<details>
+<details open>
 <summary><b>🧠 Unit VI: Spark ML & PySpark</b></summary>
 <br>
 
 * Distributed machine learning concepts via Spark MLlib.
 * Algorithms: Linear/Logistic Regression, Decision Trees, K-Means, SVM, Naive Bayes.
 * Model evaluation matrix: Confusion Matrix, R-squared, RMSE, MAE.
+
+<br>
+
+**📖 Unit 6 Study Materials & Notes:**
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 📘 PDF | Spark ML & PySpark | [View File](./Unit-6-Spark-ML-and-PySpark/INT315_Unit6_Spark_ML_PySpark.pdf) |
 </details>
 
 <br>
