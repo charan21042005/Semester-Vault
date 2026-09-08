@@ -80,6 +80,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 **📖 Unit 2 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
+| 🌟 **MD** | **Databases, Collections & Documents (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/1.Unit2_Part1_DatabasesCollectionsDocuments.md) |
 | 📘 PDF | Unit 2: Basics & CRUD | [View File](./Unit-2-MongoDB-Basics-and-CRUD/0.CSE494_Unit2_MongoDB_Basics_CRUD.pdf) |
 </details>
 
