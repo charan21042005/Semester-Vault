@@ -84,6 +84,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **BSON Data Types (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/2.Unit2_Part2_BSONDataTypes.md) |
 | 🌟 **MD** | **CRUD: Create Operations (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/3.Unit2_Part3_CRUD_Create.md) |
 | 🌟 **MD** | **CRUD: Read Operations (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/4.Unit2_Part4_CRUD_Read.md) |
+| 🌟 **MD** | **CRUD: Update & Delete Operations (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/5.Unit2_Part5_CRUD_UpdateDelete.md) |
 | 📘 PDF | Unit 2: Basics & CRUD | [View File](./Unit-2-MongoDB-Basics-and-CRUD/0.CSE494_Unit2_MongoDB_Basics_CRUD.pdf) |
 </details>
 
