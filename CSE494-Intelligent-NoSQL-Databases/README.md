@@ -88,6 +88,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **Data Modeling (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/6.Unit2_Part6_DataModeling.md) |
 | 🌟 **MD** | **Indexes & Query Optimization (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/7.Unit2_Part7_IndexesQueryOptimization.md) |
 | 🌟 **MD** | **Grand Consolidation Part A & B (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/8.Unit2_GrandConsolidation_PartA_B.md) |
+| 🌟 **MD** | **Grand Consolidation Part C & D (Recommended)** | [Read Notes](./Unit-2-MongoDB-Basics-and-CRUD/9.Unit2_GrandConsolidation_PartC_D.md) |
 | 📘 PDF | Unit 2: Basics & CRUD | [View File](./Unit-2-MongoDB-Basics-and-CRUD/0.CSE494_Unit2_MongoDB_Basics_CRUD.pdf) |
 </details>
 
