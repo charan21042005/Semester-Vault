@@ -106,7 +106,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 **📖 Unit 3 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 📘 DOCX | Unit 3: Schema & Data Modeling | [View File](./Unit-3-Schema-Design-and-Data-Modeling/3.CSE494_Unit3_Schema_Design_Data_Modeling.docx) |
+| 📘 PDF | Unit 3: Schema & Data Modeling | [View File](./Unit-3-Schema-Design-and-Data-Modeling/1.Unit3_Schema_Design_Data_Modeling.pdf) |
 </details>
 
 <details open>
