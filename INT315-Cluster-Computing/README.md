@@ -110,6 +110,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **GraphX Introduction & Features (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/5.GraphX_Introduction_Features.md) |
 | 🌟 **MD** | **GraphX Operations (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/6.GraphX_Operations.md) |
 | 🌟 **MD** | **GraphX Feature Extraction & Transformation (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/7.GraphX_Feature_Extraction_Transformation.md) |
+| 🌟 **MD** | **Final Consolidation & Viva (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/8.Final_Consolidation_RDD_GraphX_Viva.md) |
 | 📘 PDF | RDD and GraphX Notes | [View File](./Unit-3-RDD-and-Graph-Analytics/0.INT315_Unit3_RDD_and_GraphX.pdf) |
 
 </details>
