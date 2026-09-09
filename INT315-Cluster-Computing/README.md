@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=250&section=header&text=INT315:%20Cluster%20Computing&fontSize=55&fontAlignY=35&desc=Architecting%20Distributed%20Systems%20and%20Data%20Pipelines&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
   
   <br>
@@ -107,6 +107,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **RDD Actions, Operations & Lazy Eval (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/2.Unit3_RDD_Actions_Operations_LazyEval.md) |
 | 🌟 **MD** | **Spark Shell, Applications & Viva (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/3.Unit3_RDD_SparkShell_Applications_Viva.md) |
 | 🌟 **MD** | **RDD Cheat Sheet (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/4.RDD_Cheat_Sheet.md) |
+| 🌟 **MD** | **GraphX Introduction & Features (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/5.GraphX_Introduction_Features.md) |
 | 📘 PDF | RDD and GraphX Notes | [View File](./Unit-3-RDD-and-Graph-Analytics/0.INT315_Unit3_RDD_and_GraphX.pdf) |
 
 </details>
