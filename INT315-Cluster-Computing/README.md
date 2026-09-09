@@ -108,6 +108,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Spark Shell, Applications & Viva (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/3.Unit3_RDD_SparkShell_Applications_Viva.md) |
 | 🌟 **MD** | **RDD Cheat Sheet (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/4.RDD_Cheat_Sheet.md) |
 | 🌟 **MD** | **GraphX Introduction & Features (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/5.GraphX_Introduction_Features.md) |
+| 🌟 **MD** | **GraphX Operations (Recommended)** | [Read Notes](./Unit-3-RDD-and-Graph-Analytics/6.GraphX_Operations.md) |
 | 📘 PDF | RDD and GraphX Notes | [View File](./Unit-3-RDD-and-Graph-Analytics/0.INT315_Unit3_RDD_and_GraphX.pdf) |
 
 </details>
