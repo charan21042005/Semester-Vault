@@ -107,6 +107,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | Type | File Name | Action |
 | :---: | :--- | :---: |
 | 🌟 **MD** | **Schema-Less & Flexible Schema (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/1.Unit3_Part1_SchemaLessFlexibleSchema.md) |
+| 🌟 **MD** | **Data Modeling Mindset (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/2.Unit3_Part2_DataModelingMindset.md) |
 | 📘 PDF | Unit 3: Schema & Data Modeling | [View File](./Unit-3-Schema-Design-and-Data-Modeling/1.Unit3_Schema_Design_Data_Modeling.pdf) |
 </details>
 
