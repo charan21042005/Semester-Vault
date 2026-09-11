@@ -112,6 +112,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **One-to-One Relationships (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/4.Unit3_Part4_OneToOneRelationships.md) |
 | 🌟 **MD** | **One-to-Many Relationships (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/5.Unit3_Part5_OneToManyRelationships.md) |
 | 🌟 **MD** | **Many-to-Many Relationships (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/6.Unit3_Part6_ManyToManyRelationships.md) |
+| 🌟 **MD** | **Data Modeling Best Practices (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/7.Unit3_Part7_DataModelingBestPractices.md) |
 | 📘 PDF | Unit 3: Schema & Data Modeling | [View File](./Unit-3-Schema-Design-and-Data-Modeling/1.Unit3_Schema_Design_Data_Modeling.pdf) |
 </details>
 
