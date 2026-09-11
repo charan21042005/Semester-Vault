@@ -114,6 +114,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **Many-to-Many Relationships (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/6.Unit3_Part6_ManyToManyRelationships.md) |
 | 🌟 **MD** | **Data Modeling Best Practices (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/7.Unit3_Part7_DataModelingBestPractices.md) |
 | 🌟 **MD** | **Case Studies (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/8.Unit3_Part8_CaseStudies.md) |
+| 🌟 **MD** | **Schema Validation (Recommended)** | [Read Notes](./Unit-3-Schema-Design-and-Data-Modeling/9.Unit3_Part9_SchemaValidation.md) |
 | 📘 PDF | Unit 3: Schema & Data Modeling | [View File](./Unit-3-Schema-Design-and-Data-Modeling/1.Unit3_Schema_Design_Data_Modeling.pdf) |
 </details>
 
