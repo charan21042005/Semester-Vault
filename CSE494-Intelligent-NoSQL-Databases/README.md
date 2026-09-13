@@ -132,7 +132,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 **📖 Unit 4 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 📘 DOCX | Unit 4: Indexing & Aggregation | [View File](./Unit-4-Indexing-and-Aggregation/4.CSE494_Unit4_Indexing_Aggregation.docx) |
+| 📘 PDF | Unit 4: Indexing & Aggregation | [View File](./Unit-4-Indexing-and-Aggregation/1.Unit4_Indexing_Aggregation.pdf) |
 </details>
 
 <details open>
