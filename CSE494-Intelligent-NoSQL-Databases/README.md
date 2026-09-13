@@ -132,6 +132,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 **📖 Unit 4 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
+| 🌟 **MD** | **Indexing From Scratch (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/1.Part1_IndexingFromScratch.md) |
 | 📘 PDF | Unit 4: Indexing & Aggregation | [View File](./Unit-4-Indexing-and-Aggregation/1.Unit4_Indexing_Aggregation.pdf) |
 </details>
 
