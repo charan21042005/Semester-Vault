@@ -138,6 +138,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **Text Indexes (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/4.Part4_TextIndexes.md) |
 | 🌟 **MD** | **Performance With Indexing (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/5.Part5_PerformanceWithIndexing.md) |
 | 🌟 **MD** | **Explain and Covered Queries (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/6.Part6_ExplainAndCoveredQueries.md) |
+| 🌟 **MD** | **Aggregation From Scratch (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/7.Part7_AggregationFromScratch.md) |
 | 📘 PDF | Unit 4: Indexing & Aggregation | [View File](./Unit-4-Indexing-and-Aggregation/1.Unit4_Indexing_Aggregation.pdf) |
 </details>
 
