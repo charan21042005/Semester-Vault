@@ -141,6 +141,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **Aggregation From Scratch (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/7.Part7_AggregationFromScratch.md) |
 | 🌟 **MD** | **Aggregation Deep Dive (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/8.Part8_AggregationDeepDive.md) |
 | 🌟 **MD** | **Real World Aggregation (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/9.Part9_RealWorldAggregation.md) |
+| 🌟 **MD** | **Grand Consolidation (Recommended)** | [Read Notes](./Unit-4-Indexing-and-Aggregation/10.GrandConsolidation.md) |
 | 📘 PDF | Unit 4: Indexing & Aggregation | [View File](./Unit-4-Indexing-and-Aggregation/1.Unit4_Indexing_Aggregation.pdf) |
 </details>
 
