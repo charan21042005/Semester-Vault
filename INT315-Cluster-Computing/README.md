@@ -129,6 +129,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 **📖 Unit 4 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
+| 🌟 **MD** | **Spark SQL Fundamentals (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/1.Unit4_Spark_SQL_Fundamentals.md) |
 | 📘 PDF | Spark SQL | [View File](./Unit-4-Spark-SQL/0.INT315_Unit4_Spark_SQL.pdf) |
 </details>
 
