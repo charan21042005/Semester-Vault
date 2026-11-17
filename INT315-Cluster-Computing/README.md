@@ -136,6 +136,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **SQL Filtering, Sorting & Wildcards (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/5_Unit4_SQL_Filtering_Sorting_Wildcards.md) |
 | 🌟 **MD** | **GroupBy & Aggregate Functions (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/6_Unit4_GroupBy_Aggregate_Functions.md) |
 | 🌟 **MD** | **Joins in Spark SQL (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/7_Unit4_Joins.md) |
+| 🌟 **MD** | **Complete Practical Integration (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/8_Unit4_Complete_Practical_Integration.md) |
 | 📘 PDF | Spark SQL | [View File](./Unit-4-Spark-SQL/0.INT315_Unit4_Spark_SQL.pdf) |
 </details>
 
