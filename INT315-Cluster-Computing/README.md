@@ -133,6 +133,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **DataFrames Practical Operations (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/2.Unit4_DataFrames_Practical_Operations.md) |
 | 🌟 **MD** | **RDD to DataFrame Conversion (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/3_Unit4_RDD_to_DataFrame_Conversion.md) |
 | 🌟 **MD** | **Temp Views & SQL Queries (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/4_Unit4_Temp_Views_SQL_Queries.md) |
+| 🌟 **MD** | **SQL Filtering, Sorting & Wildcards (Recommended)** | [Read Notes](./Unit-4-Spark-SQL/5_Unit4_SQL_Filtering_Sorting_Wildcards.md) |
 | 📘 PDF | Spark SQL | [View File](./Unit-4-Spark-SQL/0.INT315_Unit4_Spark_SQL.pdf) |
 </details>
 
