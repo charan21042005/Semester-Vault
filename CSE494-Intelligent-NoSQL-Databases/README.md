@@ -159,6 +159,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | Type | File Name | Action |
 | :---: | :--- | :---: |
 | 🌟 **MD** | **Node.js and MongoDB (Recommended)** | [Read Notes](./Unit-5-MongoDB-Integration/1.Part1_NodeJsAndMongoDB.md) |
+| 🌟 **MD** | **Mongoose ODM (Recommended)** | [Read Notes](./Unit-5-MongoDB-Integration/2.Part2_Mongoose.md) |
 | 📘 DOCX | Unit 5: Integration & AI | [View File](./Unit-5-MongoDB-Integration/5.CSE494_Unit5_Integration_AI.docx) |
 </details>
 
