@@ -163,6 +163,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Kafka-Spark Integration (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/7_Unit5_Kafka_Spark_Integration.md) |
 | 🌟 **MD** | **Kafka Pipelines & Ingestion Patterns (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/8_Unit5_Kafka_Pipeline_Ingestion_Patterns.md) |
 | 🌟 **MD** | **Complete Practical Integration (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/9_Unit5_Complete_Practical_Integration.md) |
+| 🌟 **MD** | **Final Revision & 30 Viva Questions (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/10_Unit5_Final_Revision_30_Viva.md) |
 | 📘 PDF | Spark Streaming & Kafka | [View File](./Unit-5-Spark-Streaming-with-Kafka/0.INT315_Unit5_Spark_Streaming_Kafka.pdf) |
 </details>
 
