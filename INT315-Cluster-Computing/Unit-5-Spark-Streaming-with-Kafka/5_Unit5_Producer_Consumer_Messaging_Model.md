@@ -684,8 +684,7 @@ val consumer = new KafkaConsumer[String, String](cprops)
 consumer.subscribe(Collections.singletonList("sales"))
 
 val records = consumer.poll(Duration.ofSeconds(5))
-for (r <- records.asScala)
-  println(s"partition=${r.partition} offset=${r.offset} key=${r.key} value=${r.value}")
+for (r <- records.asScala) println(s"partition=${r.partition} offset=${r.offset} key=${r.key} value=${r.value}")
 
 consumer.close()
 ```
