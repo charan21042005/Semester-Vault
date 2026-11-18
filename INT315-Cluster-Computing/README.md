@@ -161,6 +161,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Producer & Consumer Messaging Model (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/5_Unit5_Producer_Consumer_Messaging_Model.md) |
 | 🌟 **MD** | **Spark Streaming Foundations (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/6_Unit5_Spark_Streaming_Foundations.md) |
 | 🌟 **MD** | **Kafka-Spark Integration (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/7_Unit5_Kafka_Spark_Integration.md) |
+| 🌟 **MD** | **Kafka Pipelines & Ingestion Patterns (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/8_Unit5_Kafka_Pipeline_Ingestion_Patterns.md) |
 | 📘 PDF | Spark Streaming & Kafka | [View File](./Unit-5-Spark-Streaming-with-Kafka/0.INT315_Unit5_Spark_Streaming_Kafka.pdf) |
 </details>
 
