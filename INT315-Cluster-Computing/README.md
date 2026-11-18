@@ -156,6 +156,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | :---: | :--- | :---: |
 | 🌟 **MD** | **Streaming Basics & Kafka Introduction (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/1_Unit5_Streaming_and_Kafka_Introduction.md) |
 | 🌟 **MD** | **Kafka Core Concepts (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/2_Unit5_Kafka_Core_Concepts.md) |
+| 🌟 **MD** | **Kafka Cluster Architecture (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/3_Unit5_Kafka_Cluster_Architecture.md) |
 | 📘 PDF | Spark Streaming & Kafka | [View File](./Unit-5-Spark-Streaming-with-Kafka/0.INT315_Unit5_Spark_Streaming_Kafka.pdf) |
 </details>
 
