@@ -163,6 +163,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **CRUD Using Application Code (Recommended)** | [Read Notes](./Unit-5-MongoDB-Integration/3.Part3_CRUDUsingApplicationCode.md) |
 | 🌟 **MD** | **Python and PyMongo (Recommended)** | [Read Notes](./Unit-5-MongoDB-Integration/4.Part4_PythonAndPyMongo.md) |
 | 🌟 **MD** | **CRUD Using PyMongo (Recommended)** | [Read Notes](./Unit-5-MongoDB-Integration/5.Part5_CRUDUsingPyMongo.md) |
+| 🌟 **MD** | **AI-Based Predictive Analytics (Recommended)** | [Read Notes](./Unit-5-MongoDB-Integration/6.Part6_AIPredictiveAnalytics.md) |
 | 📘 DOCX | Unit 5: Integration & AI | [View File](./Unit-5-MongoDB-Integration/5.CSE494_Unit5_Integration_AI.docx) |
 </details>
 
