@@ -159,6 +159,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Kafka Cluster Architecture (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/3_Unit5_Kafka_Cluster_Architecture.md) |
 | 🌟 **MD** | **Kafka Installation on Windows (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/4_Unit5_Kafka_Installation_Windows.md) |
 | 🌟 **MD** | **Producer & Consumer Messaging Model (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/5_Unit5_Producer_Consumer_Messaging_Model.md) |
+| 🌟 **MD** | **Spark Streaming Foundations (Recommended)** | [Read Notes](./Unit-5-Spark-Streaming-with-Kafka/6_Unit5_Spark_Streaming_Foundations.md) |
 | 📘 PDF | Spark Streaming & Kafka | [View File](./Unit-5-Spark-Streaming-with-Kafka/0.INT315_Unit5_Spark_Streaming_Kafka.pdf) |
 </details>
 
