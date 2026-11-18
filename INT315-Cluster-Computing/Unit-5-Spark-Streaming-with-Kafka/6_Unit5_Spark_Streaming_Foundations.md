@@ -95,6 +95,34 @@ CMD A: Python server (you type)  ──▶  port 9999  ──▶  CMD B: Spark r
 
 ---
 
+### 2b. ⚠️ How to enter multi-line code in `spark-shell` (read this once)
+
+Many streaming statements are written over several lines, with each line starting with a dot:
+
+```scala
+val q = rate.writeStream
+  .format("console")
+  .outputMode("append")
+  .start()
+```
+
+If you type or paste such code **line by line**, the shell treats `val q = rate.writeStream` as a complete statement and runs it on its own. The next lines then fail (this was tested). **Fix: use paste mode.**
+
+1. Type `:paste` and press Enter.
+2. Paste the whole block.
+3. Press **Ctrl + D** to finish. The shell now runs the block as one statement.
+
+```text
+scala> :paste
+// Entering paste mode (ctrl-D to finish)
+ ...paste your multi-line code here...
+// Exiting paste mode, now interpreting.
+```
+
+Alternatively, put the whole statement on **one line**, or wrap it in parentheses `val q = (rate.writeStream ... .start())`. **Rule for all of Unit V: multi-line chains → `:paste`.**
+
+---
+
 ## PART A — SPARK STREAMING (DStreams)
 
 ### 3. The DStream idea
