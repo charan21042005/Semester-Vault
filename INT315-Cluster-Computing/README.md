@@ -180,6 +180,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 **📖 Unit 6 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
+| 🌟 **MD** | **ML & PySpark Introduction (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/1_Unit6_ML_and_PySpark_Introduction.md) |
 | 📘 PDF | Spark ML & PySpark | [View File](./Unit-6-Spark-ML-and-PySpark/INT315_Unit6_Spark_ML_PySpark.pdf) |
 </details>
 
