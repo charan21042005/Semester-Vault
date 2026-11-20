@@ -115,6 +115,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Terraform vs CloudFormation & Wider Landscape (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_5_Part5_TerraformVsCloudFormation.md) |
 | 🌟 **MD** | **Future Trends & Emerging Tools in IaC (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_6_Part6_FutureTrendsAndEmergingTools.md) |
 | 🌟 **MD** | **Practical Lab Guide: CloudFormation & Terraform (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_7_Part7_PracticalLabGuide.md) |
+| 🌟 **MD** | **Grand Consolidation & Complete Unit 2 Revision (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_8_GrandConsolidation.md) |
 
 </details>
 
