@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=250&section=header&text=INT378:%20Cloud%20%26%20DevOps&fontSize=50&fontAlignY=35&desc=Advancements%20in%20Cloud%20Infrastructure%2C%20IaC%2C%20and%20DevSecOps&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:4364F7&height=250&section=header&text=INT378:%20Cloud%20and%20DevOps&fontSize=50&fontAlignY=35&desc=Advancements%20in%20Cloud%20Infrastructure%2C%20IaC%2C%20and%20DevSecOps&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" />
   
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4364F7&center=true&vCenter=true&width=650&lines=Cloud+Infrastructure+%26+Containers;Infrastructure+as+Code+(IaC);Agile+Product+Development+%26+CI%2FCD;Monitoring+%26+Observability;DevSecOps+%26+Cloud+Security;Cloud-Native+Architecture" alt="Typing SVG" />
@@ -181,5 +181,5 @@ Through this course, students will systematically build mastery across the follo
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,50:4364F7,100:6FB1FC&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0052D4,100:4364F7&height=120&section=footer" width="100%" />
 </div>
