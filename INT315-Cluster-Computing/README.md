@@ -188,6 +188,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Logistic Regression in PySpark (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/6_Unit6_Logistic_Regression.md) |
 | 🌟 **MD** | **Decision Tree Classifier & Regressor (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/7_Unit6_Decision_Tree.md) |
 | 🌟 **MD** | **K-Means Clustering (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/8_Unit6_KMeans_Clustering.md) |
+| 🌟 **MD** | **Support Vector Machines (SVM) (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/9_Unit6_SVM.md) |
 | 📘 PDF | Spark ML & PySpark | [View File](./Unit-6-Spark-ML-and-PySpark/INT315_Unit6_Spark_ML_PySpark.pdf) |
 </details>
 
