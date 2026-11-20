@@ -113,6 +113,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Terraform from Scratch (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_3_Part3_TerraformFromScratch.md) |
 | 🌟 **MD** | **Terraform Advanced (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_4_Part4_TerraformAdvanced.md) |
 | 🌟 **MD** | **Terraform vs CloudFormation & Wider Landscape (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_5_Part5_TerraformVsCloudFormation.md) |
+| 🌟 **MD** | **Future Trends & Emerging Tools in IaC (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_6_Part6_FutureTrendsAndEmergingTools.md) |
 
 </details>
 
