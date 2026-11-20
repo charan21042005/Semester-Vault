@@ -185,6 +185,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Spark MLlib & Key Concepts (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/3_Unit6_Spark_MLlib_Key_Concepts.md) |
 | 🌟 **MD** | **Data Understanding & Correlation Heat Map (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/4_Unit6_Data_Understanding_and_Correlation_Heatmap.md) |
 | 🌟 **MD** | **Linear Regression in PySpark (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/5_Unit6_Linear_Regression.md) |
+| 🌟 **MD** | **Logistic Regression in PySpark (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/6_Unit6_Logistic_Regression.md) |
 | 📘 PDF | Spark ML & PySpark | [View File](./Unit-6-Spark-ML-and-PySpark/INT315_Unit6_Spark_ML_PySpark.pdf) |
 </details>
 
