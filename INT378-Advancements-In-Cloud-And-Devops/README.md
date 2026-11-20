@@ -81,7 +81,7 @@ Through this course, students will systematically build mastery across the follo
 **📖 Unit 1 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 🚀 *Upcoming* | *Unit 1 Markdown Notes will be populated here* | *In Progress* |
+| 🌟 **MD** | **Cloud Computing from Absolute Scratch (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/1_Part1_CloudFromScratch.md) |
 
 </details>
 
