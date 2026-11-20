@@ -89,6 +89,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Docker Hands-on & Docker Hub (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/6_Part6_DockerHandsOnAndDockerHub.md) |
 | 🌟 **MD** | **Case Studies: Netflix, Amazon, Uber (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/7_Part7_CaseStudies.md) |
 | 🌟 **MD** | **Practical Lab Guide: EC2 & Docker (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/8_Part8_PracticalLabGuide.md) |
+| 🌟 **MD** | **Grand Consolidation & Viva Prep (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/9_GrandConsolidation.md) |
 
 </details>
 
