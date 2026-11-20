@@ -87,6 +87,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Resource Provisioning & Optimization Techniques (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/4_Part4_ProvisioningAndOptimization.md) |
 | 🌟 **MD** | **Containerization, Docker Architecture & Lifecycle (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/5_Part5_ContainersAndDockerArchitecture.md) |
 | 🌟 **MD** | **Docker Hands-on & Docker Hub (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/6_Part6_DockerHandsOnAndDockerHub.md) |
+| 🌟 **MD** | **Case Studies: Netflix, Amazon, Uber (Recommended)** | [Read Notes](./Unit-1-Advanced_Cloud_Infrastructure_And_Services/7_Part7_CaseStudies.md) |
 
 </details>
 
