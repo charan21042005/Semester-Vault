@@ -316,12 +316,18 @@ project/
 
 ```hcl
 variable "name"          { type = string }
-variable "instance_type" { type = string, default = "t3.micro" }
+variable "instance_type" {
+  type    = string
+  default = "t3.micro"
+}
 variable "vpc_id"        { type = string }
 variable "subnet_id"     { type = string }
 variable "ami_id"        { type = string }
 variable "ssh_cidr"      { type = string }
-variable "key_name"      { type = string, default = null }
+variable "key_name" {
+  type    = string
+  default = null
+}
 ```
 
 `main.tf`:
@@ -333,13 +339,22 @@ resource "aws_security_group" "this" {
   vpc_id      = var.vpc_id
 
   ingress {
-    from_port = 80, to_port = 80, protocol = "tcp", cidr_blocks = ["0.0.0.0/0"]
+    from_port   = 80
+    to_port     = 80
+    protocol    = "tcp"
+    cidr_blocks = ["0.0.0.0/0"]
   }
   ingress {
-    from_port = 22, to_port = 22, protocol = "tcp", cidr_blocks = [var.ssh_cidr]
+    from_port   = 22
+    to_port     = 22
+    protocol    = "tcp"
+    cidr_blocks = [var.ssh_cidr]
   }
   egress {
-    from_port = 0, to_port = 0, protocol = "-1", cidr_blocks = ["0.0.0.0/0"]
+    from_port   = 0
+    to_port     = 0
+    protocol    = "-1"
+    cidr_blocks = ["0.0.0.0/0"]
   }
   tags = { Name = "${var.name}-sg" }
 }
@@ -363,14 +378,20 @@ resource "aws_instance" "this" {
 }
 ```
 
-(HCL note: single-line blocks with commas, like `{ from_port = 80, to_port = 80 ... }`, are only valid for object/map **values**; for nested **blocks** use one argument per line as in the examples in Part 3. If your Terraform version complains, expand them to multiple lines.)
+(HCL note: a block written on one line may hold only ONE argument, so multi-argument blocks are written one argument per line. Commas on one line are only valid for object/map **values**.)
 
 `outputs.tf`:
 
 ```hcl
-output "instance_id" { value = aws_instance.this.id }
-output "public_ip"   { value = aws_instance.this.public_ip }
-output "sg_id"       { value = aws_security_group.this.id }
+output "instance_id" {
+  value = aws_instance.this.id
+}
+output "public_ip" {
+  value = aws_instance.this.public_ip
+}
+output "sg_id" {
+  value = aws_security_group.this.id
+}
 ```
 
 ## 5.3 Root module calling it twice
@@ -396,8 +417,12 @@ module "web_test" {
   ssh_cidr      = var.my_ip_cidr
 }
 
-output "dev_ip"  { value = module.web_dev.public_ip }
-output "test_ip" { value = module.web_test.public_ip }
+output "dev_ip" {
+  value = module.web_dev.public_ip
+}
+output "test_ip" {
+  value = module.web_test.public_ip
+}
 ```
 
 After adding a module (or changing its source): run `terraform init` again.
