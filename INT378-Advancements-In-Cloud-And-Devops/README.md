@@ -108,7 +108,7 @@ Through this course, students will systematically build mastery across the follo
 **📖 Unit 2 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 🚀 *Upcoming* | *Unit 2 Markdown Notes will be populated here* | *In Progress* |
+| 🌟 **MD** | **IaC from Absolute Scratch (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_1_Part1_IaCFromScratch.md) |
 
 </details>
 
