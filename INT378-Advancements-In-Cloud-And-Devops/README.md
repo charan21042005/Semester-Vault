@@ -109,6 +109,7 @@ Through this course, students will systematically build mastery across the follo
 | Type | File Name | Action |
 | :---: | :--- | :---: |
 | 🌟 **MD** | **IaC from Absolute Scratch (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_1_Part1_IaCFromScratch.md) |
+| 🌟 **MD** | **AWS CloudFormation (Recommended)** | [Read Notes](./Unit-2-Infrastructure_As_Code_(IaC)/U2_2_Part2_CloudFormation.md) |
 
 </details>
 
