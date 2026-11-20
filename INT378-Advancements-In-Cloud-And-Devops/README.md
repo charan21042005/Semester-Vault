@@ -134,7 +134,7 @@ Through this course, students will systematically build mastery across the follo
 **📖 Unit 3 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 🚀 *Upcoming* | *Unit 3 Markdown Notes will be populated here* | *In Progress* |
+| 🌟 **MD** | **Agile from Absolute Scratch (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_1_Part1_AgileFromScratch.md) |
 
 </details>
 
