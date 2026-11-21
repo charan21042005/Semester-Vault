@@ -140,6 +140,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **CI/CD Concepts, Pipelines & Deployment Strategies (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_4_Part4_CICD_Concepts.md) |
 | 🌟 **MD** | **Jenkins Deep Dive & Automation Server (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_5_Part5_JenkinsDeepDive.md) |
 | 🌟 **MD** | **Product Strategy, Distributed Teams, A/B Testing & Tech Debt (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_6_Part6_ProductStrategy_DistributedTeams_ABTesting_TechDebt.md) |
+| 🌟 **MD** | **Best Practices for Agile Collaboration & Deployment (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_7_Part7_BestPractices_AgileCollaboration_Deployment.md) |
 
 </details>
 
