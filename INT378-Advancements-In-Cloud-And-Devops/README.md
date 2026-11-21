@@ -139,6 +139,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **TDD & BDD: Test-Driven & Behavior-Driven Development (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_3_Part3_TDD_and_BDD.md) |
 | 🌟 **MD** | **CI/CD Concepts, Pipelines & Deployment Strategies (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_4_Part4_CICD_Concepts.md) |
 | 🌟 **MD** | **Jenkins Deep Dive & Automation Server (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_5_Part5_JenkinsDeepDive.md) |
+| 🌟 **MD** | **Product Strategy, Distributed Teams, A/B Testing & Tech Debt (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_6_Part6_ProductStrategy_DistributedTeams_ABTesting_TechDebt.md) |
 
 </details>
 
