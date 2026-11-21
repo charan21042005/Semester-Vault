@@ -191,6 +191,7 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 | 🌟 **MD** | **Support Vector Machines (SVM) (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/9_Unit6_SVM.md) |
 | 🌟 **MD** | **Naive Bayes Classifier (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/10_Unit6_Naive_Bayes.md) |
 | 🌟 **MD** | **Model Evaluation & Performance Metrics (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/11_Unit6_Model_Evaluation_Metrics.md) |
+| 🌟 **MD** | **Complete Practical Integration & ML Pipelines (Recommended)** | [Read Notes](./Unit-6-Spark-ML-and-PySpark/12_Unit6_Complete_Practical_Integration.md) |
 | 📘 PDF | Spark ML & PySpark | [View File](./Unit-6-Spark-ML-and-PySpark/INT315_Unit6_Spark_ML_PySpark.pdf) |
 </details>
 
