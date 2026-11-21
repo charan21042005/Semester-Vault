@@ -138,6 +138,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Scaling Agile: SAFe, LeSS & Scaling Frameworks (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_2_Part2_ScalingAgile_SAFe_LeSS.md) |
 | 🌟 **MD** | **TDD & BDD: Test-Driven & Behavior-Driven Development (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_3_Part3_TDD_and_BDD.md) |
 | 🌟 **MD** | **CI/CD Concepts, Pipelines & Deployment Strategies (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_4_Part4_CICD_Concepts.md) |
+| 🌟 **MD** | **Jenkins Deep Dive & Automation Server (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_5_Part5_JenkinsDeepDive.md) |
 
 </details>
 
