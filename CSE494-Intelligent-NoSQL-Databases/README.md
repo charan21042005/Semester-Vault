@@ -189,6 +189,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **Final Assessment: Quiz, Output & Viva Bank (Recommended)** | [Read Notes](./Unit-6-Project/5.Part5_FinalAssessmentQuizAndViva.md) |
 | 🌟 **MD** | **Course Recap and Discussion (Recommended)** | [Read Notes](./Unit-6-Project/6.Part6_CourseRecapAndDiscussion.md) |
 | 🌟 **MD** | **Future Trends: AI-Augmented Databases & AutoML (Recommended)** | [Read Notes](./Unit-6-Project/7.Part7_FutureTrendsAIAugmentedDatabasesAndAutoML.md) |
+| 🌟 **MD** | **Grand Consolidation & Course Finale (Recommended)** | [Read Notes](./Unit-6-Project/8.GrandConsolidation.md) |
 | 📘 DOCX | Unit 6: Project & Future Trends | [View File](./Unit-6-Project/6.CSE494_Unit6_MiniProject_Production_FutureTrends%20(1).docx) |
 </details>
 
