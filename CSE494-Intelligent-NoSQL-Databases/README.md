@@ -185,6 +185,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 | 🌟 **MD** | **Mini Project: Planning & Design (Recommended)** | [Read Notes](./Unit-6-Project/1.Part1_MiniProjectPlanningAndDesign.md) |
 | 🌟 **MD** | **Mini Project: Building the Backend (Recommended)** | [Read Notes](./Unit-6-Project/2.Part2_MiniProjectBuildingTheBackend.md) |
 | 🌟 **MD** | **Mini Project: Analytics, Testing & Demo (Recommended)** | [Read Notes](./Unit-6-Project/3.Part3_MiniProjectAnalyticsTestingAndDemo.md) |
+| 🌟 **MD** | **Best Practices for Production (Recommended)** | [Read Notes](./Unit-6-Project/4.Part4_BestPracticesForProduction.md) |
 | 📘 DOCX | Unit 6: Project & Future Trends | [View File](./Unit-6-Project/6.CSE494_Unit6_MiniProject_Production_FutureTrends%20(1).docx) |
 </details>
 
