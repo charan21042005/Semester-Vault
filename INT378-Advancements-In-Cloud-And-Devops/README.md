@@ -142,6 +142,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Product Strategy, Distributed Teams, A/B Testing & Tech Debt (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_6_Part6_ProductStrategy_DistributedTeams_ABTesting_TechDebt.md) |
 | 🌟 **MD** | **Best Practices for Agile Collaboration & Deployment (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_7_Part7_BestPractices_AgileCollaboration_Deployment.md) |
 | 🌟 **MD** | **Practical Lab Guide: Jenkins CI/CD & Webhooks (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_8_Part8_PracticalLabGuide_Jenkins.md) |
+| 🌟 **MD** | **Grand Consolidation & Complete Unit 3 Revision (Recommended)** | [Read Notes](./Unit-3-Agile_And_CICD_Practices_For%20_Scalable_Product_Development/U3_9_GrandConsolidation.md) |
 
 </details>
 
