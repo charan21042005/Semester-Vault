@@ -182,6 +182,7 @@ Here is the tech stack we use to build intelligent data pipelines:
 **📖 Unit 6 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
+| 🌟 **MD** | **Mini Project: Planning & Design (Recommended)** | [Read Notes](./Unit-6-Project/1.Part1_MiniProjectPlanningAndDesign.md) |
 | 📘 DOCX | Unit 6: Project & Future Trends | [View File](./Unit-6-Project/6.CSE494_Unit6_MiniProject_Production_FutureTrends%20(1).docx) |
 </details>
 
