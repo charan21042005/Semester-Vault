@@ -195,10 +195,11 @@ Here is the tech stack we use to build intelligent data pipelines:
 
 <br>
 
-## 📚 Complete Course Companion
+## 📚 Complete Course Companions & Lab Manuals
 
 | Type | File Name | Action |
 | :---: | :--- | :---: |
+| 🌟 **MD** | **Complete Practical Manual + Viva & Interview Guide (Recommended)** | [Read Manual](./CSE494_Complete_Practical_Manual_Viva_Interview.md) |
 | 📘 DOCX | **CSE494 Complete Course Companion** | [View File](./7.CSE494_Complete_Course_Companion.docx) |
 
 <br>
