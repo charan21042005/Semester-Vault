@@ -27,7 +27,7 @@ This repository serves as the central version-controlled workspace for current a
 | :---: | :--- | :--- | :---: |
 | **☁️ INT315** | **Cluster Computing** | Distributed Systems, High-Performance Analytics, Spark | [Go to INT315](./INT315-Cluster-Computing) |
 | **🗄️ CSE494** | **Intelligent NoSQL Databases** | MongoDB, Advanced Aggregation, AI-Driven Architectures | [Go to CSE494](./CSE494-Intelligent-NoSQL-Databases) |
-| **🚀 INT378** | **Advancements in Cloud and DevOps** | Cloud Infrastructure, Terraform, CI/CD, DevSecOps | [Go to INT378](./INT378-Advancements-In-Cloud-And-Devops) |
+| **🚀 INT378** | **Advancements in Cloud and DevOps** | Cloud Infrastructure, Terraform, CI/CD, Prometheus Observability | [Go to INT378](./INT378-Advancements-In-Cloud-And-Devops) |
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:00ff87&height=2" width="100%"/>
