@@ -24,6 +24,13 @@ We are leaving ACID-constrained RDBMS in the rearview mirror and plunging into *
 > [!TIP]
 > **Study Guide:** While both PDF and DOCX files may be provided, **exploring and following the .md (Markdown) files is highly recommended and completely sufficient.** They cover all the material comprehensively and are natively readable directly on GitHub!
 
+> [!IMPORTANT]
+> ### 🌟 Master Practical Manual, Viva & Interview Guide
+> Looking for end-to-end practical mastery and viva prep in a single guide? Explore **[CSE494 Complete Practical Manual + Viva & Interview Guide](./CSE494_Complete_Practical_Manual_Viva_Interview.md)**!
+> * **10 Core Practicals + Bonus Labs:** Environment setup, SQL vs NoSQL, CRUD, BSON, schema design & validation, indexing with `explain()`, aggregation pipelines, Node.js/Mongoose, PyMongo, AI analytics, and mini-project.
+> * **3-Layer Framework:** **Do It** (exact commands & outputs) → **Understand** (architectural concepts & diagrams) → **Defend It** (viva defense & interview scenarios).
+> * **Master Question Bank:** 60+ viva questions with high-scoring answers across Units I–VI plus an industry interview round.
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b224ef,100:7579ff&height=2" width="100%"/>
 <br>
