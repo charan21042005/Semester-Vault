@@ -162,6 +162,7 @@ Through this course, students will systematically build mastery across the follo
 | :---: | :--- | :---: |
 | 🌟 **MD** | **Monitoring & Observability from Absolute Scratch (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_1_Part1_MonitoringAndObservabilityFromScratch.md) |
 | 🌟 **MD** | **Prometheus Fundamentals & Architecture (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_2_Part2_PrometheusFundamentals.md) |
+| 🌟 **MD** | **PromQL Deep Dive & Querying Guide (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_3_Part3_PromQL_DeepDive.md) |
 
 </details>
 
