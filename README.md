@@ -55,7 +55,7 @@ This repository serves as the central version-controlled workspace for current a
 
 *   **Distributed Systems Mastery:** Develop a deep understanding of fault-tolerance, high availability, and in-memory data processing using Apache Spark.
 *   **Database Architecture:** Transition from relational paradigms to flexible, scalable, and intelligent NoSQL structures using MongoDB (including complete lab implementations and viva prep in the [CSE494 Practical Manual](./CSE494-Intelligent-NoSQL-Databases/CSE494_Complete_Practical_Manual_Viva_Interview.md)).
-*   **Cloud & DevOps Automation:** Architect scalable multi-cloud infrastructure, codify environments using Terraform, automate CI/CD pipelines, and embed end-to-end observability and DevSecOps security.
+*   **Cloud & DevOps Automation:** Architect scalable multi-cloud infrastructure, codify environments using Terraform, automate CI/CD pipelines, and implement end-to-end telemetry and observability with Prometheus & Alertmanager ([INT378 Unit 4](./INT378-Advancements-In-Cloud-And-Devops/Unit-4-Monitoring_and_Observability/U4_1_Part1_MonitoringAndObservabilityFromScratch.md)).
 *   **Real-world Application:** Implement end-to-end data pipelines and aggregation frameworks simulating production-level scenarios.
 
 <br>
