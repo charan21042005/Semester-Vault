@@ -160,7 +160,7 @@ Through this course, students will systematically build mastery across the follo
 **📖 Unit 4 Study Materials & Notes:**
 | Type | File Name | Action |
 | :---: | :--- | :---: |
-| 🚀 *Upcoming* | *Unit 4 Markdown Notes will be populated here* | *In Progress* |
+| 🌟 **MD** | **Monitoring & Observability from Absolute Scratch (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_1_Part1_MonitoringAndObservabilityFromScratch.md) |
 
 </details>
 
