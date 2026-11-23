@@ -166,6 +166,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Alerting, Alert Rules & Alertmanager (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_4_Part4_Alerting_Alertmanager.md) |
 | 🌟 **MD** | **Grafana & Performance Dashboards (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_5_Part5_Grafana_PerformanceDashboards.md) |
 | 🌟 **MD** | **Scaling Monitoring Solutions: Thanos, Mimir & K8s (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_6_Part6_ScalingMonitoringSolutions.md) |
+| 🌟 **MD** | **Advanced Observability Strategies: Tracing, OTel & Loki (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_7_Part7_AdvancedObservabilityStrategies.md) |
 
 </details>
 
