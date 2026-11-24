@@ -169,6 +169,7 @@ Through this course, students will systematically build mastery across the follo
 | 🌟 **MD** | **Advanced Observability Strategies: Tracing, OTel & Loki (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_7_Part7_AdvancedObservabilityStrategies.md) |
 | 🌟 **MD** | **Practical Lab Guide: Prometheus, Alerts & Grafana Dashboards (Recommended)** | [Read Notes](./Unit-4-Monitoring_and_Observability/U4_8_Part8_PracticalLabGuide_Prometheus_Grafana.md) |
 | 📊 **JSON** | **Grafana Infrastructure Dashboard Config** | [View JSON](./Unit-4-Monitoring_and_Observability/U4_infra-dashboard.json) |
+| 📦 **ZIP** | **Unit 4 Lab Configuration & Script Archive** | [Download ZIP](./Unit-4-Monitoring_and_Observability/U4_lab_files.zip) |
 
 </details>
 
