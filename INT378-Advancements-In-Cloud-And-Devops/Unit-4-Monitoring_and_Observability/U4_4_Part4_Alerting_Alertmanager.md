@@ -185,7 +185,7 @@ groups:
           summary: "Disk on {{ $labels.instance }} ({{ $labels.mountpoint }}) predicted to fill within 4 hours"
 
       - alert: HighLoadPerCore
-        expr: node_load5 / count by (instance) (node_cpu_seconds_total{mode="idle"}) > 1.5
+        expr: node_load5 / on(instance) count by (instance) (node_cpu_seconds_total{mode="idle"}) > 1.5
         for: 10m
         labels:
           severity: warning
