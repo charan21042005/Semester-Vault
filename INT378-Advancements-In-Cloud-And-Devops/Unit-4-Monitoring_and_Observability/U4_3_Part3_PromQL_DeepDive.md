@@ -403,8 +403,10 @@ count by (instance) (node_cpu_seconds_total{mode="idle"})
 node_load1                                             # 1-minute load
 node_load5
 # load per core (≥ 1 sustained means CPU saturation)
-node_load1 / count by (instance) (node_cpu_seconds_total{mode="idle"})
+node_load1 / on(instance) count by (instance) (node_cpu_seconds_total{mode="idle"})
 ```
+
+⚠️ The `on(instance)` is **required**: `node_load1` carries labels like `job`, `env`, `role`, while `count by (instance)` keeps only `instance`. Without `on(instance)` the label sets differ and the result is **empty** (a classic silent failure, verified on live data).
 
 ## 8.4 Memory
 
