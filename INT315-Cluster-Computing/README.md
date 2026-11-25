@@ -198,6 +198,14 @@ Here is the arsenal of technologies we leverage to process big data at scale:
 
 <br>
 
+## 📚 Complete Course Companion & Lab Manual
+
+| Type | File Name | Action |
+| :---: | :--- | :---: |
+| 🌟 **MD** | **Complete Practical Guide and Viva Bank (Recommended)** | [Read Manual](./INT315_Complete_Practicals_and_Viva_Master.md) |
+
+<br>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF416C,100:FF4B2B&height=120&section=footer" width="100%" />
 </div>
