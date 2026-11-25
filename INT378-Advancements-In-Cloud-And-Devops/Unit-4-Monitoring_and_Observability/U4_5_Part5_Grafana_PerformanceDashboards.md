@@ -381,9 +381,9 @@ Settings: Time range "Last 3 hours" ; Auto-refresh 30s ; Timezone: Browser ; Var
 | **Memory used** | Gauge | `(1 - sum(node_memory_MemAvailable_bytes{instance=~"$instance"}) / sum(node_memory_MemTotal_bytes{instance=~"$instance"})) * 100` | Percent (0-100) | 80 yellow, 90 red |
 | **Root disk used** | Gauge | `100 - (node_filesystem_avail_bytes{instance=~"$instance", mountpoint="/", fstype!~"tmpfs|overlay"} / node_filesystem_size_bytes{instance=~"$instance", mountpoint="/", fstype!~"tmpfs|overlay"} * 100)` | Percent (0-100) | 75 yellow, 90 red |
 | **Uptime** | Stat | `time() - node_boot_time_seconds{instance=~"$instance"}` | `seconds (s)` → shows d/h/m | — |
-| **Load per core (5m)** | Stat | `avg(node_load5{instance=~"$instance"}) / count(node_cpu_seconds_total{mode="idle", instance=~"$instance"}) * count(count by (instance) (node_cpu_seconds_total{mode="idle", instance=~"$instance"}))` | none (2 decimals) | 0.7 yellow, 1.0 red |
+| **Load per core (5m)** | Stat | `avg(node_load5{instance=~"$instance"} / on(instance) count by (instance) (node_cpu_seconds_total{mode="idle", instance=~"$instance"}))` | none (2 decimals) | 0.7 yellow, 1.0 red |
 
-(Simpler load-per-core for a single host: `node_load5 / count(node_cpu_seconds_total{mode="idle"})`.)
+(Single host shortcut: `node_load5 / count(node_cpu_seconds_total{mode="idle"})` works because `count(...)` without `by` returns an unlabeled scalar-like vector that matches anything. With several hosts always use `on(instance)`.)
 
 ### Row 2: CPU (Time series)
 
