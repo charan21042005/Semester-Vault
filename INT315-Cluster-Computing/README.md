@@ -22,6 +22,13 @@ Welcome to the core of modern data engineering! **INT315** is an industry-grade 
 > [!TIP]
 > **Study Guide:** While both PDF and Markdown (.md) notes are provided, **exploring and following the .md files is highly recommended and completely sufficient.** They cover all the material comprehensively and are natively readable directly on GitHub!
 
+> [!IMPORTANT]
+> ### 🌟 Master Practical Guide & Viva Bank
+> Preparing for university lab examinations or technical interviews? Explore the **[INT315 Complete Practical Guide and Viva Bank](./INT315_Complete_Practicals_and_Viva_Master.md)**!
+> * **All Practicals Covered:** From Spark installation and RDD transformations to Spark SQL, Streaming with Kafka, GraphX, and PySpark MLlib.
+> * **Standard Exam Format:** Aim $\rightarrow$ Theory $\rightarrow$ Steps $\rightarrow$ Runnable Code $\rightarrow$ Expected Output $\rightarrow$ Line-by-Line Explanation $\rightarrow$ Common Errors.
+> * **Comprehensive Viva Bank:** Unit-by-unit spoken viva answers crafted for university examiners and production engineering interviews.
+
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=2" width="100%"/>
 <br>
